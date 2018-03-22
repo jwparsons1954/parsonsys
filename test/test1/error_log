@@ -1,0 +1,14 @@
+[28-Nov-2016 15:13:31 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home3/parsons1/public_html/test/test1/checklogin.php on line 12
+[28-Nov-2016 15:13:31 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/parsons1/public_html/test/test1/checklogin.php on line 12
+[28-Nov-2016 15:15:25 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/parsons1/public_html/test/test1/checklogin.php on line 12
+[28-Nov-2016 15:17:52 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/parsons1/public_html/test/test1/checklogin.php on line 12
+[28-Nov-2016 15:18:29 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home3/parsons1/public_html/test/test1/checklogin.php on line 13
+[28-Nov-2016 15:20:42 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home3/parsons1/public_html/test/test1/checklogin.php on line 13
+[28-Nov-2016 15:24:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home3/parsons1/public_html/test/test1/checklogin.php on line 12
+[28-Nov-2016 15:31:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home3/parsons1/public_html/test/test1/checklogin.php on line 12
+[28-Nov-2016 15:34:55 America/Chicago] PHP Warning:  define() expects at least 2 parameters, 1 given in /home3/parsons1/public_html/test/test1/checklogin.php on line 5
+[28-Nov-2016 15:34:55 America/Chicago] PHP Warning:  define() expects at least 2 parameters, 1 given in /home3/parsons1/public_html/test/test1/checklogin.php on line 6
+[28-Nov-2016 15:34:55 America/Chicago] PHP Warning:  define() expects at least 2 parameters, 1 given in /home3/parsons1/public_html/test/test1/checklogin.php on line 7
+[28-Nov-2016 15:34:55 America/Chicago] PHP Warning:  define() expects at least 2 parameters, 1 given in /home3/parsons1/public_html/test/test1/checklogin.php on line 8
+[28-Nov-2016 15:34:55 America/Chicago] PHP Warning:  define() expects at least 2 parameters, 1 given in /home3/parsons1/public_html/test/test1/checklogin.php on line 9
+[28-Nov-2016 15:34:55 America/Chicago] PHP Fatal error:  Class 'mysql' not found in /home3/parsons1/public_html/test/test1/checklogin.php on line 12

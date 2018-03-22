@@ -1,0 +1,294 @@
+[10-Jan-2017 09:06:40 US/Eastern] PHP Fatal error:  Class 'MathDate1' not found in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 7
+[10-Jan-2017 09:15:48 US/Eastern] PHP Fatal error:  Class 'MathDate1' not found in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 8
+[10-Jan-2017 09:17:04 US/Eastern] PHP Fatal error:  Class 'MathDate2' not found in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 9
+[10-Jan-2017 09:20:12 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 7
+[10-Jan-2017 09:20:44 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 7
+[10-Jan-2017 09:22:24 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 7
+[10-Jan-2017 09:26:45 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 7
+[10-Jan-2017 09:27:16 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 7
+[10-Jan-2017 09:28:17 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 7
+[10-Jan-2017 09:29:27 US/Eastern] PHP Catchable fatal error:  Object of class MathDate could not be converted to string in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 10
+[10-Jan-2017 09:30:09 US/Eastern] PHP Fatal error:  Function name must be a string in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 10
+[10-Jan-2017 09:38:38 US/Eastern] PHP Parse error:  syntax error, unexpected '$SecondDate' (T_VARIABLE) in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 13
+[10-Jan-2017 09:39:15 US/Eastern] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 14
+[10-Jan-2017 09:39:48 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:44:37 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:45:33 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:49:17 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:50:47 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:52:22 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:54:20 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:55:10 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 09:59:34 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 15
+[10-Jan-2017 10:00:00 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 15
+[10-Jan-2017 10:01:56 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[10-Jan-2017 10:02:54 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/Classes/mathdate.php on line 12
+[12-Jan-2017 18:15:12 US/Eastern] PHP Parse error:  syntax error, unexpected ']' in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 3
+[12-Jan-2017 18:17:53 US/Eastern] PHP Parse error:  syntax error, unexpected ']' in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 3
+[12-Jan-2017 18:19:01 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 4
+[12-Jan-2017 18:19:58 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 4
+[12-Jan-2017 18:20:11 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 4
+[12-Jan-2017 18:22:47 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 4
+[12-Jan-2017 18:23:10 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 4
+[12-Jan-2017 18:23:47 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 4
+[12-Jan-2017 18:37:53 US/Eastern] PHP Warning:  include(Classes/readwrite.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 2
+[12-Jan-2017 18:37:53 US/Eastern] PHP Warning:  include(Classes/readwrite.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 2
+[12-Jan-2017 18:37:53 US/Eastern] PHP Warning:  include(): Failed opening 'Classes/readwrite.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 2
+[12-Jan-2017 18:42:22 US/Eastern] PHP Warning:  include(Classes/readwrite.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 2
+[12-Jan-2017 18:42:22 US/Eastern] PHP Warning:  include(Classes/readwrite.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 2
+[12-Jan-2017 18:42:22 US/Eastern] PHP Warning:  include(): Failed opening 'Classes/readwrite.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 2
+[12-Jan-2017 18:42:22 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 5
+[12-Jan-2017 18:44:30 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 5
+[13-Jan-2017 09:27:12 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 5
+[13-Jan-2017 09:28:14 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 5
+[13-Jan-2017 09:49:41 US/Eastern] PHP Parse error:  syntax error, unexpected '$read' (T_VARIABLE) in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 6
+[13-Jan-2017 09:50:13 US/Eastern] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/parsons1/public_html/usmc/Classes/readfile.php on line 8
+[13-Jan-2017 10:16:17 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/usmc/Classes/changer.php on line 18
+[13-Jan-2017 10:27:34 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/Classes/changer.php on line 16
+[13-Jan-2017 10:31:50 US/Eastern] PHP Parse error:  syntax error, unexpected '$theone' (T_VARIABLE), expecting '(' in /home3/parsons1/public_html/usmc/Classes/changer.php on line 15
+[13-Jan-2017 10:33:27 US/Eastern] PHP Parse error:  syntax error, unexpected '$theone' (T_VARIABLE), expecting '(' in /home3/parsons1/public_html/usmc/Classes/changer.php on line 15
+[13-Jan-2017 10:43:34 US/Eastern] PHP Catchable fatal error:  Object of class t2t could not be converted to string in /home3/parsons1/public_html/usmc/Classes/changer.php on line 28
+[13-Jan-2017 11:01:42 US/Eastern] PHP Fatal error:  Call to undefined function myFunction() in /home3/parsons1/public_html/usmc/Classes/changer.php on line 33
+[15-Jan-2017 14:24:50 US/Eastern] PHP Warning:  include_once(class.wordcounter.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/test1.php on line 2
+[15-Jan-2017 14:24:50 US/Eastern] PHP Warning:  include_once(): Failed opening 'class.wordcounter.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/Classes/test1.php on line 2
+[15-Jan-2017 14:24:50 US/Eastern] PHP Fatal error:  Class 'WordCounter' not found in /home3/parsons1/public_html/usmc/Classes/test1.php on line 3
+[15-Jan-2017 14:25:45 US/Eastern] PHP Warning:  include_once(class.wordcounter.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/test1.php on line 2
+[15-Jan-2017 14:25:45 US/Eastern] PHP Warning:  include_once(): Failed opening 'class.wordcounter.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/Classes/test1.php on line 2
+[15-Jan-2017 14:25:45 US/Eastern] PHP Fatal error:  Class 'WordCounter' not found in /home3/parsons1/public_html/usmc/Classes/test1.php on line 3
+[15-Jan-2017 14:27:16 US/Eastern] PHP Warning:  file_get_contents(mylife.txt): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/class.wordcounter.php on line 8
+[15-Jan-2017 14:28:28 US/Eastern] PHP Warning:  file_get_contents(mylife.txt): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/Classes/class.wordcounter.php on line 8
+[15-Jan-2017 14:40:06 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::arraytest() must be of the type array, string given, called in /home3/parsons1/public_html/usmc/Classes/one.php on line 8 and defined in /home3/parsons1/public_html/usmc/Classes/one.php on line 3
+[15-Jan-2017 14:43:32 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/Classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/Classes/one.php on line 3
+[15-Jan-2017 14:46:22 US/Eastern] PHP Fatal error:  Call to undefined method my_class::bar() in /home3/parsons1/public_html/usmc/Classes/myclass.php on line 10
+[15-Jan-2017 14:47:41 US/Eastern] PHP Fatal error:  Call to undefined method my_class::bar() in /home3/parsons1/public_html/usmc/Classes/myclass.php on line 10
+[16-Jan-2017 20:27:47 US/Eastern] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 2
+[16-Jan-2017 20:28:37 US/Eastern] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 3
+[16-Jan-2017 20:30:21 US/Eastern] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 5
+[16-Jan-2017 20:31:58 US/Eastern] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 5
+[16-Jan-2017 20:32:51 US/Eastern] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 5
+[16-Jan-2017 20:33:43 US/Eastern] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) or '(' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 5
+[16-Jan-2017 20:39:16 US/Eastern] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) or '(' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 5
+[16-Jan-2017 20:40:40 US/Eastern] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 5
+[16-Jan-2017 20:41:20 US/Eastern] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 5
+[16-Jan-2017 20:42:14 US/Eastern] PHP Parse error:  syntax error, unexpected '$csscount' (T_VARIABLE), expecting '(' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 6
+[16-Jan-2017 20:43:42 US/Eastern] PHP Parse error:  syntax error, unexpected '$csscount' (T_VARIABLE), expecting '(' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 6
+[16-Jan-2017 20:48:35 US/Eastern] PHP Parse error:  syntax error, unexpected '$csscount' (T_VARIABLE), expecting '(' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 6
+[16-Jan-2017 20:49:13 US/Eastern] PHP Parse error:  syntax error, unexpected '$csscount' (T_VARIABLE), expecting '(' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 6
+[16-Jan-2017 20:53:43 US/Eastern] PHP Parse error:  syntax error, unexpected ',' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 11
+[16-Jan-2017 20:58:42 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 11
+[16-Jan-2017 20:59:19 US/Eastern] PHP Parse error:  syntax error, unexpected ',' in /home3/parsons1/public_html/usmc/Classes/attempt.php on line 13
+[16-Jan-2017 21:14:05 US/Eastern] PHP Fatal error:  Call to undefined function setcsscount() in /home3/parsons1/public_html/usmc/Classes/testx.php on line 16
+[16-Jan-2017 21:16:56 US/Eastern] PHP Fatal error:  Call to undefined function setfilecount() in /home3/parsons1/public_html/usmc/Classes/testx.php on line 19
+[16-Jan-2017 21:18:46 US/Eastern] PHP Fatal error:  Call to undefined function setfilecount() in /home3/parsons1/public_html/usmc/Classes/testx.php on line 21
+[17-Jan-2017 11:02:40 US/Eastern] PHP Warning:  implode(): Invalid arguments passed in /home3/parsons1/public_html/usmc/Classes/glob1.php on line 12
+[03-Feb-2017 08:44:04 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[03-Feb-2017 08:44:17 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[04-Feb-2017 16:28:20 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/usmc/classes/pic2.php on line 59
+[04-Feb-2017 16:56:12 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/usmc/classes/pics.php on line 11
+[04-Feb-2017 17:03:25 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/usmc/classes/pics.php on line 11
+[04-Feb-2017 17:05:41 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/usmc/classes/pics.php on line 13
+[04-Feb-2017 17:16:31 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/usmc/classes/pics.php on line 13
+[04-Feb-2017 17:31:13 US/Eastern] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home3/parsons1/public_html/usmc/classes/pics.php on line 11
+[04-Feb-2017 17:31:46 US/Eastern] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home3/parsons1/public_html/usmc/classes/pics.php on line 11
+[04-Feb-2017 18:18:58 US/Eastern] PHP Fatal error:  Function name must be a string in /home3/parsons1/public_html/usmc/classes/pics.php on line 15
+[04-Feb-2017 18:20:00 US/Eastern] PHP Fatal error:  Function name must be a string in /home3/parsons1/public_html/usmc/classes/pics.php on line 16
+[04-Feb-2017 18:36:47 US/Eastern] PHP Fatal error:  Can't use function return value in write context in /home3/parsons1/public_html/usmc/classes/pics.php on line 11
+[04-Feb-2017 18:37:54 US/Eastern] PHP Warning:  extract() expects parameter 1 to be array, string given in /home3/parsons1/public_html/usmc/classes/pics.php on line 20
+[04-Feb-2017 18:40:18 US/Eastern] PHP Fatal error:  Call to undefined function group(5).JPG() in /home3/parsons1/public_html/usmc/classes/pics.php on line 20
+[04-Feb-2017 18:41:49 US/Eastern] PHP Fatal error:  Call to undefined function group(5).JPG() in /home3/parsons1/public_html/usmc/classes/pics.php on line 20
+[04-Feb-2017 19:00:13 US/Eastern] PHP Warning:  reset() expects parameter 1 to be array, string given in /home3/parsons1/public_html/usmc/classes/pics.php on line 18
+[04-Feb-2017 19:00:13 US/Eastern] PHP Warning:  Variable passed to each() is not an array or object in /home3/parsons1/public_html/usmc/classes/pics.php on line 19
+[04-Feb-2017 19:09:21 US/Eastern] PHP Warning:  reset() expects parameter 1 to be array, string given in /home3/parsons1/public_html/usmc/classes/pics.php on line 18
+[04-Feb-2017 19:09:21 US/Eastern] PHP Warning:  Variable passed to each() is not an array or object in /home3/parsons1/public_html/usmc/classes/pics.php on line 19
+[04-Feb-2017 19:10:30 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/pics.php on line 20
+[04-Feb-2017 19:11:08 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/pics.php on line 20
+[04-Feb-2017 19:11:16 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/pics.php on line 20
+[04-Feb-2017 19:12:45 US/Eastern] PHP Warning:  readdir(): 3 is not a valid Directory resource in /home3/parsons1/public_html/usmc/classes/pics.php on line 8
+[04-Feb-2017 19:14:29 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/pics.php on line 22
+[04-Feb-2017 19:18:16 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/pics.php on line 22
+[04-Feb-2017 19:19:38 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/pics.php on line 19
+[04-Feb-2017 20:49:12 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home3/parsons1/public_html/usmc/classes/pics.php on line 19
+[04-Feb-2017 20:56:42 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home3/parsons1/public_html/usmc/classes/pics.php on line 19
+[06-Feb-2017 06:41:59 US/Eastern] PHP Warning:  scandir(/images/): failed to open dir: No such file or directory in /home3/parsons1/public_html/usmc/classes/pic1.php on line 5
+[06-Feb-2017 06:41:59 US/Eastern] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/parsons1/public_html/usmc/classes/pic1.php on line 5
+[06-Feb-2017 06:41:59 US/Eastern] PHP Warning:  scandir(/images/): failed to open dir: No such file or directory in /home3/parsons1/public_html/usmc/classes/pic1.php on line 8
+[06-Feb-2017 06:41:59 US/Eastern] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/parsons1/public_html/usmc/classes/pic1.php on line 8
+[06-Feb-2017 08:44:20 US/Eastern] PHP Parse error:  syntax error, unexpected '$dir' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 106
+[06-Feb-2017 08:49:34 US/Eastern] PHP Parse error:  syntax error, unexpected '=' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 107
+[06-Feb-2017 08:53:34 US/Eastern] PHP Parse error:  syntax error, unexpected '$', expecting ',' or ';' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 108
+[06-Feb-2017 08:54:13 US/Eastern] PHP Parse error:  syntax error, unexpected '$' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 108
+[06-Feb-2017 08:54:51 US/Eastern] PHP Fatal error:  Function name must be a string in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 108
+[06-Feb-2017 08:55:43 US/Eastern] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 108
+[06-Feb-2017 09:23:01 US/Eastern] PHP Warning:  reset() expects parameter 1 to be array, string given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 108
+[06-Feb-2017 09:23:01 US/Eastern] PHP Warning:  Variable passed to each() is not an array or object in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 109
+[06-Feb-2017 09:25:12 US/Eastern] PHP Warning:  reset() expects parameter 1 to be array, string given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 109
+[06-Feb-2017 09:25:12 US/Eastern] PHP Warning:  Variable passed to each() is not an array or object in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:26:56 US/Eastern] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 109
+[06-Feb-2017 09:26:56 US/Eastern] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 109
+[06-Feb-2017 09:26:56 US/Eastern] PHP Warning:  reset() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:26:56 US/Eastern] PHP Warning:  Variable passed to each() is not an array or object in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 111
+[06-Feb-2017 09:29:12 US/Eastern] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:29:12 US/Eastern] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:30:14 US/Eastern] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:30:14 US/Eastern] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:30:17 US/Eastern] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:30:17 US/Eastern] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:30:22 US/Eastern] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:30:22 US/Eastern] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:31:01 US/Eastern] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:31:01 US/Eastern] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:31:01 US/Eastern] PHP Warning:  reset() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 111
+[06-Feb-2017 09:36:08 US/Eastern] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 109
+[06-Feb-2017 09:36:08 US/Eastern] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 109
+[06-Feb-2017 09:36:08 US/Eastern] PHP Warning:  reset() expects parameter 1 to be array, null given in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 110
+[06-Feb-2017 09:36:08 US/Eastern] PHP Warning:  Variable passed to each() is not an array or object in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 111
+[06-Feb-2017 09:41:45 US/Eastern] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 114
+[06-Feb-2017 09:46:48 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 178
+[06-Feb-2017 09:48:40 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 178
+[06-Feb-2017 09:52:08 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 179
+[06-Feb-2017 09:56:51 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 168
+[06-Feb-2017 09:57:56 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 167
+[06-Feb-2017 09:58:59 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 166
+[06-Feb-2017 09:59:35 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 165
+[06-Feb-2017 09:59:43 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 165
+[06-Feb-2017 10:00:15 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 163
+[06-Feb-2017 10:02:57 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 163
+[06-Feb-2017 10:32:10 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 62
+[06-Feb-2017 10:37:46 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 63
+[06-Feb-2017 10:40:20 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 64
+[06-Feb-2017 10:52:55 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 19
+[06-Feb-2017 10:54:00 US/Eastern] PHP Parse error:  syntax error, unexpected '"' in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 22
+[06-Feb-2017 11:01:23 US/Eastern] PHP Parse error:  syntax error, unexpected '$picname' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 22
+[06-Feb-2017 11:02:16 US/Eastern] PHP Parse error:  syntax error, unexpected '$picname' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 22
+[06-Feb-2017 12:43:52 US/Eastern] PHP Parse error:  syntax error, unexpected '$picname' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 22
+[06-Feb-2017 12:44:00 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 178
+[06-Feb-2017 12:45:25 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[06-Feb-2017 12:47:17 US/Eastern] PHP Parse error:  syntax error, unexpected '$picname' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 22
+[06-Feb-2017 12:47:23 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 178
+[06-Feb-2017 13:01:34 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 121
+[06-Feb-2017 13:02:31 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 121
+[06-Feb-2017 13:03:05 US/Eastern] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 122
+[06-Feb-2017 13:05:01 US/Eastern] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 122
+[06-Feb-2017 13:06:01 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 123
+[06-Feb-2017 13:06:46 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 124
+[06-Feb-2017 13:08:05 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 128
+[06-Feb-2017 13:12:02 US/Eastern] PHP Parse error:  syntax error, unexpected '}' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 127
+[06-Feb-2017 13:41:08 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 118
+[06-Feb-2017 13:43:20 US/Eastern] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 119
+[06-Feb-2017 13:43:59 US/Eastern] PHP Parse error:  syntax error, unexpected '}' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 121
+[06-Feb-2017 13:44:55 US/Eastern] PHP Parse error:  syntax error, unexpected '}' in /home3/parsons1/public_html/usmc/classes/sshow2.php on line 121
+[06-Feb-2017 13:46:55 US/Eastern] PHP Parse error:  syntax error, unexpected '$picname' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 22
+[06-Feb-2017 13:57:14 US/Eastern] PHP Parse error:  syntax error, unexpected '$picname' (T_VARIABLE), expecting ',' or ';' in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 24
+[06-Feb-2017 13:58:38 US/Eastern] PHP Parse error:  syntax error, unexpected '$picname' (T_VARIABLE), expecting ',' or ';' in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 24
+[06-Feb-2017 14:03:04 US/Eastern] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 24
+[06-Feb-2017 14:08:06 US/Eastern] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/usmc/classes/sshow3.php on line 25
+[06-Feb-2017 16:15:20 US/Eastern] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home3/parsons1/public_html/usmc/classes/sshow7.php:7) in /home3/parsons1/public_html/usmc/classes/sshow7.php on line 17
+[06-Feb-2017 16:15:20 US/Eastern] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/parsons1/public_html/usmc/classes/sshow7.php:7) in /home3/parsons1/public_html/usmc/classes/sshow7.php on line 17
+[10-Feb-2017 09:24:56 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[10-Feb-2017 09:41:05 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[10-Feb-2017 09:42:01 US/Eastern] PHP Parse error:  syntax error, unexpected '?>' in /home3/parsons1/public_html/usmc/classes/test1.php on line 6
+[10-Feb-2017 09:42:39 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[10-Feb-2017 10:32:49 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[28-Feb-2017 23:03:16 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[28-Feb-2017 23:03:17 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[28-Feb-2017 23:03:50 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[28-Feb-2017 23:03:50 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[28-Feb-2017 23:03:53 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[28-Feb-2017 23:03:53 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[28-Feb-2017 23:03:54 US/Eastern] PHP Fatal error:  Call to undefined function setfilecount() in /home3/parsons1/public_html/usmc/classes/testx.php on line 21
+[28-Feb-2017 23:03:54 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[28-Feb-2017 23:04:24 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[28-Feb-2017 23:04:26 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[09-Mar-2017 08:49:40 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[09-Mar-2017 08:49:46 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[09-Mar-2017 08:50:03 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[09-Mar-2017 08:50:51 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[09-Mar-2017 08:50:55 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[09-Mar-2017 23:09:49 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[11-Mar-2017 23:08:28 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[12-Mar-2017 23:07:59 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[13-Mar-2017 23:06:49 US/Eastern] PHP Fatal error:  Call to undefined function setfilecount() in /home3/parsons1/public_html/usmc/classes/testx.php on line 21
+[13-Mar-2017 23:06:50 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[13-Mar-2017 23:06:50 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[13-Mar-2017 23:06:51 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[14-Mar-2017 23:04:03 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[14-Mar-2017 23:04:05 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[15-Mar-2017 23:01:43 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[16-Mar-2017 23:10:45 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[17-Mar-2017 23:08:41 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[18-Mar-2017 23:03:49 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 36
+[19-Mar-2017 23:05:10 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[20-Mar-2017 23:10:29 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[21-Mar-2017 23:04:30 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[22-Mar-2017 23:07:08 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[23-Mar-2017 23:03:08 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[30-Mar-2017 23:10:18 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[30-Mar-2017 23:10:18 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[30-Mar-2017 23:10:49 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[30-Mar-2017 23:10:49 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[30-Mar-2017 23:10:51 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[30-Mar-2017 23:10:51 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[30-Mar-2017 23:10:52 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[30-Mar-2017 23:10:52 US/Eastern] PHP Fatal error:  Call to undefined function setfilecount() in /home3/parsons1/public_html/usmc/classes/testx.php on line 21
+[30-Mar-2017 23:10:54 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[30-Mar-2017 23:10:55 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[04-Apr-2017 23:04:58 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[04-Apr-2017 23:05:30 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[05-Apr-2017 23:06:56 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[06-Apr-2017 23:01:55 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[07-Apr-2017 23:00:57 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[08-Apr-2017 23:03:30 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[09-Apr-2017 23:09:40 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[10-Apr-2017 23:01:33 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[12-Apr-2017 23:04:52 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[17-Apr-2017 23:05:49 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[18-Apr-2017 23:05:07 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[18-Apr-2017 23:05:08 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[18-Apr-2017 23:05:09 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[19-Apr-2017 23:05:19 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[20-Apr-2017 23:05:43 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[21-Apr-2017 23:09:56 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[22-Apr-2017 23:01:38 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[23-Apr-2017 23:05:02 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Apr-2017 23:06:57 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[25-Apr-2017 23:09:06 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[29-Apr-2017 23:02:39 US/Eastern] PHP Fatal error:  Call to undefined function setfilecount() in /home3/parsons1/public_html/usmc/classes/testx.php on line 21
+[29-Apr-2017 23:02:40 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[29-Apr-2017 23:02:44 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[29-Apr-2017 23:02:47 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[29-Apr-2017 23:02:50 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[29-Apr-2017 23:02:51 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[29-Apr-2017 23:03:22 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[29-Apr-2017 23:03:26 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[29-Apr-2017 23:03:57 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[29-Apr-2017 23:03:57 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[11-May-2017 23:02:16 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[13-May-2017 23:05:31 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[13-May-2017 23:05:33 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[14-May-2017 23:06:49 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[15-May-2017 23:02:29 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[16-May-2017 23:03:22 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[20-May-2017 23:05:58 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[20-May-2017 23:06:30 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[21-May-2017 23:02:30 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[22-May-2017 23:09:07 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[29-May-2017 23:04:57 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[29-May-2017 23:05:00 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[29-May-2017 23:05:00 US/Eastern] PHP Fatal error:  Call to undefined function setfilecount() in /home3/parsons1/public_html/usmc/classes/testx.php on line 21
+[29-May-2017 23:05:31 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[29-May-2017 23:05:31 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[29-May-2017 23:05:37 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[29-May-2017 23:05:38 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[29-May-2017 23:05:39 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[29-May-2017 23:05:40 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[29-May-2017 23:05:41 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[03-Jun-2017 02:26:43 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[03-Jun-2017 02:28:22 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/datecalc.php on line 4
+[03-Jun-2017 02:28:37 US/Eastern] PHP Catchable fatal error:  Argument 1 passed to One::other_class_test() must be an instance of Two, instance of NewClass given, called in /home3/parsons1/public_html/usmc/classes/one.php on line 17 and defined in /home3/parsons1/public_html/usmc/classes/one.php on line 3
+[03-Jun-2017 02:28:42 US/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home3/parsons1/public_html/usmc/classes/test1.php on line 4
+[03-Jun-2017 02:29:06 US/Eastern] PHP Warning:  Creating default object from empty value in /home3/parsons1/public_html/usmc/classes/mathdate.php on line 12
+[03-Jun-2017 02:29:17 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[03-Jun-2017 02:29:55 US/Eastern] PHP Parse error:  syntax error, unexpected 'Autoloader' (T_STRING) in /home3/parsons1/public_html/usmc/classes/xAutoloader.php on line 14
+[03-Jun-2017 02:30:00 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[16-Jun-2017 23:09:30 US/Eastern] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/parsons1/public_html/usmc/classes/diffdate.php on line 4
+[16-Jun-2017 23:10:01 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34

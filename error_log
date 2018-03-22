@@ -1,0 +1,126 @@
+[08-Jan-2017 17:36:39 US/Eastern] PHP Parse error:  syntax error, unexpected '$datetime1' (T_VARIABLE) in /home3/parsons1/public_html/howlong.php on line 4
+[08-Jan-2017 17:41:27 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:41:27 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:42:27 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:42:27 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:42:49 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:42:49 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:43:06 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:43:06 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:43:57 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:43:57 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:44:14 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:44:14 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:45:06 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:45:06 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:47:27 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:47:27 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:47:53 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:47:53 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:49:30 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:49:30 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:50:16 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:50:16 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:50:56 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:50:56 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:52:48 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:52:48 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:55:08 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:55:08 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:57:04 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:57:04 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 17:57:40 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/howlong.php on line 6
+[08-Jan-2017 17:57:40 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/howlong.php on line 7
+[08-Jan-2017 18:22:38 US/Eastern] PHP Parse error:  syntax error, unexpected '<' in /home3/parsons1/public_html/howlong.php on line 8
+[08-Jan-2017 18:25:58 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/howlong.php on line 4
+[08-Jan-2017 18:27:01 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/howlong.php on line 5
+[10-Jan-2017 19:44:39 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/script.php on line 6
+[10-Jan-2017 19:46:03 US/Eastern] PHP Parse error:  syntax error, unexpected '$var2' (T_VARIABLE), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 4
+[10-Jan-2017 20:02:35 US/Eastern] PHP Parse error:  syntax error, unexpected '$var2' (T_VARIABLE), expecting '(' in /home3/parsons1/public_html/script.php on line 6
+[10-Jan-2017 20:06:30 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 10
+[10-Jan-2017 20:08:37 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 10
+[10-Jan-2017 20:09:45 US/Eastern] PHP Warning:  date_diff() expects parameter 2 to be DateTime, string given in /home3/parsons1/public_html/script.php on line 11
+[10-Jan-2017 20:09:45 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 12
+[10-Jan-2017 20:14:08 US/Eastern] PHP Parse error:  syntax error, unexpected '}' in /home3/parsons1/public_html/script.php on line 9
+[10-Jan-2017 20:14:40 US/Eastern] PHP Fatal error:  Call to a member function toDateTime() on a non-object in /home3/parsons1/public_html/script.php on line 8
+[10-Jan-2017 20:20:49 US/Eastern] PHP Warning:  date_diff() expects parameter 2 to be DateTime, integer given in /home3/parsons1/public_html/script.php on line 11
+[10-Jan-2017 20:20:49 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 12
+[10-Jan-2017 20:22:15 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 10
+[10-Jan-2017 20:24:13 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 10
+[10-Jan-2017 20:25:34 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 10
+[10-Jan-2017 20:26:53 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, integer given in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 20:26:53 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 14
+[10-Jan-2017 20:37:47 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 20:37:47 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 14
+[10-Jan-2017 20:42:53 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 20:42:53 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 14
+[10-Jan-2017 20:45:45 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 20:45:45 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 14
+[10-Jan-2017 20:47:57 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 20:47:57 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 14
+[10-Jan-2017 20:49:10 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 20:49:10 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 14
+[10-Jan-2017 20:50:58 US/Eastern] PHP Warning:  date_diff() expects parameter 1 to be DateTime, boolean given in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 20:50:58 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 14
+[10-Jan-2017 20:52:22 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 11
+[10-Jan-2017 20:55:34 US/Eastern] PHP Fatal error:  Call to undefined function sdate_create() in /home3/parsons1/public_html/script.php on line 7
+[10-Jan-2017 20:56:34 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 10
+[10-Jan-2017 20:56:47 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 10
+[10-Jan-2017 20:58:01 US/Eastern] PHP Warning:  date_diff() expects parameter 2 to be DateTime, boolean given in /home3/parsons1/public_html/script.php on line 12
+[10-Jan-2017 20:58:01 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/script.php on line 13
+[10-Jan-2017 21:00:02 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 8
+[10-Jan-2017 21:04:45 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 8
+[12-Jan-2017 11:09:19 US/Eastern] PHP Parse error:  syntax error, unexpected '%', expecting ')' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 11:12:32 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 11:14:33 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 11:16:07 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:25:34 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:26:07 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:26:58 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:27:43 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:28:56 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:31:47 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:33:05 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:36:07 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:36:45 US/Eastern] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:37:39 US/Eastern] PHP Fatal error:  Call to undefined function string() in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:39:13 US/Eastern] PHP Fatal error:  Call to undefined function string() in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:43:05 US/Eastern] PHP Parse error:  syntax error, unexpected '/' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:43:33 US/Eastern] PHP Fatal error:  Undefined constant 'n' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:44:11 US/Eastern] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:44:42 US/Eastern] PHP Warning:  Division by zero in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 15:50:53 US/Eastern] PHP Parse error:  syntax error, unexpected ''<br>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/parsons1/public_html/script.php on line 16
+[12-Jan-2017 17:19:00 US/Eastern] PHP Parse error:  syntax error, unexpected 'F' (T_STRING) in /home3/parsons1/public_html/script.php on line 15
+[12-Jan-2017 17:30:54 US/Eastern] PHP Parse error:  syntax error, unexpected 'the' (T_STRING) in /home3/parsons1/public_html/script.php on line 17
+[15-Jan-2017 17:25:37 US/Eastern] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/parsons1/public_html/glob.php on line 3
+[15-Jan-2017 17:26:48 US/Eastern] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/parsons1/public_html/glob.php on line 3
+[15-Jan-2017 17:31:58 US/Eastern] PHP Warning:  scandir(/xampp/htdocs/WORK): failed to open dir: No such file or directory in /home3/parsons1/public_html/getdir.php on line 3
+[15-Jan-2017 17:31:58 US/Eastern] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/parsons1/public_html/getdir.php on line 3
+[15-Jan-2017 17:31:58 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home3/parsons1/public_html/getdir.php on line 5
+[15-Jan-2017 19:28:13 US/Eastern] PHP Parse error:  syntax error, unexpected '}' in /home3/parsons1/public_html/glob.php on line 9
+[15-Jan-2017 19:31:06 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/glob.php on line 11
+[15-Jan-2017 19:32:01 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/glob.php on line 10
+[15-Jan-2017 20:21:59 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/glob1.php on line 5
+[15-Jan-2017 21:15:29 US/Eastern] PHP Warning:  implode(): Invalid arguments passed in /home3/parsons1/public_html/glob1.php on line 12
+[17-Jan-2017 13:45:03 US/Eastern] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '107.170.53.190' (111) in /home3/parsons1/public_html/sqltest2.php on line 2
+[17-Jan-2017 13:45:03 US/Eastern] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/parsons1/public_html/sqltest2.php on line 3
+[17-Jan-2017 13:45:03 US/Eastern] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home3/parsons1/public_html/sqltest2.php on line 3
+[17-Jan-2017 13:46:31 US/Eastern] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home3/parsons1/public_html/sqltest1.php on line 16
+[17-Jan-2017 17:42:19 US/Eastern] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/parsons1/public_html/glob.php on line 3
+[17-Jan-2017 17:42:27 US/Eastern] PHP Warning:  implode(): Invalid arguments passed in /home3/parsons1/public_html/glob1.php on line 12
+[17-Jan-2017 17:45:47 US/Eastern] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/parsons1/public_html/glob.php on line 3
+[17-Jan-2017 17:46:23 US/Eastern] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/parsons1/public_html/glob1.php on line 3
+[17-Jan-2017 17:46:23 US/Eastern] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/parsons1/public_html/glob1.php on line 3
+[17-Jan-2017 17:51:21 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/glob1.php on line 10
+[17-Jan-2017 17:52:21 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/glob1.php on line 10
+[17-Jan-2017 17:53:56 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/glob1.php on line 11
+[17-Jan-2017 17:55:10 US/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home3/parsons1/public_html/glob1.php on line 11
+[17-Jan-2017 18:09:36 US/Eastern] PHP Fatal error:  Cannot use [] for reading in /home3/parsons1/public_html/glob1.php on line 5
+[24-Jan-2017 03:37:42 US/Eastern] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home3/parsons1/public_html/sqltest1.php on line 16
+[24-Jan-2017 03:37:58 US/Eastern] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '107.170.53.190' (111) in /home3/parsons1/public_html/sqltest2.php on line 2
+[24-Jan-2017 03:37:58 US/Eastern] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/parsons1/public_html/sqltest2.php on line 3
+[24-Jan-2017 03:37:58 US/Eastern] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home3/parsons1/public_html/sqltest2.php on line 3
+[31-Jan-2017 12:05:43 US/Eastern] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '107.170.53.190' (111) in /home3/parsons1/public_html/sqltest2.php on line 2
+[31-Jan-2017 12:05:43 US/Eastern] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/parsons1/public_html/sqltest2.php on line 3
+[31-Jan-2017 12:05:43 US/Eastern] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home3/parsons1/public_html/sqltest2.php on line 3
+[31-Jan-2017 12:05:54 US/Eastern] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home3/parsons1/public_html/sqltest1.php on line 16

@@ -1,0 +1,94 @@
+*
+{
+ul
+{
+list-style-type: none;
+}
+
+
+.top
+{display: block;
+position: relative;
+	width: 99%;
+    height: 200px;
+	font-size: 1.0em;
+    border: 10px solid yellow;
+	background-color: red;
+}
+.egal{float: left;
+}
+.egar{float: right;
+}
+
+{
+	margin: 0;
+	padding: 5;
+	color: black;
+	background:red;
+	font: normal 20pt Times New Roman
+	
+}
+
+
+#content {
+    margin: 0 20px; /* setting top and bottom margin to 0 and right and left margin to 20px */
+}
+
+
+.div {display:inline-block;
+	width:90%;
+	border: 10px solid gold;
+	margin:0;
+}
+
+	.lcorps {position: absolute;
+	top: 0;
+	left: 0;border: 5px solid gold;
+	width: 250px;
+	height:250px: 
+	}
+	
+	.mcorps {float: left;
+position: relative;
+display: block;
+right:50%;
+	background-color:red; 
+	border: 5px solid gold;
+	width: 150px;
+	padding: 5px 5px 5px 5px; 
+	text-decoration: none;
+	
+	}
+	.usmc	 {display:inline;
+	text-align: center;
+	width:450px;
+          background:red;
+          padding: 5px 5px 5px 5px;
+          border: 5px solid gold;
+	text-decoration: none
+}
+
+	.rcorps {position: absolute;
+	top: 0;
+	right: 0;
+	border: 5px solid gold;
+	width: 250px;
+	height:250px: 
+	}
+	
+	#backgndinfo 
+	{font: normal 10pt
+}
+
+.me { 
+	background-color:blue; 
+	border: 3px solid black;
+	width: 231px;
+	padding:10px 10px 10px 10px;  
+	margin: 5px; 
+	vertical-align: top;
+	position: fixed;
+       color: white;
+	}
+	
+}

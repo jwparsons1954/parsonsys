@@ -1,0 +1,13 @@
+[25-Jan-2017 00:03:50 US/Eastern] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home3/parsons1/public_html/newlogin/classes/test.php on line 2
+[25-Jan-2017 00:05:12 US/Eastern] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home3/parsons1/public_html/newlogin/classes/test.php on line 2
+[25-Jan-2017 00:06:09 US/Eastern] PHP Parse error:  syntax error, unexpected ',' in /home3/parsons1/public_html/newlogin/classes/test.php on line 10
+[25-Jan-2017 00:07:20 US/Eastern] PHP Parse error:  syntax error, unexpected 'parsons1_bill' (T_STRING) in /home3/parsons1/public_html/newlogin/classes/test.php on line 10
+[25-Jan-2017 00:11:11 US/Eastern] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home3/parsons1/public_html/newlogin/classes/test.php on line 5
+[25-Jan-2017 00:11:42 US/Eastern] PHP Parse error:  syntax error, unexpected ',' in /home3/parsons1/public_html/newlogin/classes/test.php on line 12
+[25-Jan-2017 00:28:07 US/Eastern] PHP Parse error:  syntax error, unexpected 'mysql' (T_STRING) in /home3/parsons1/public_html/newlogin/classes/test.php on line 13
+[25-Jan-2017 00:32:06 US/Eastern] PHP Parse error:  syntax error, unexpected ',' in /home3/parsons1/public_html/newlogin/classes/test.php on line 14
+[25-Jan-2017 00:55:13 US/Eastern] PHP Parse error:  syntax error, unexpected ',' in /home3/parsons1/public_html/newlogin/classes/test.php on line 15
+[25-Jan-2017 00:55:56 US/Eastern] PHP Fatal error:  Using $this when not in object context in /home3/parsons1/public_html/newlogin/classes/test.php on line 6
+[25-Jan-2017 00:56:58 US/Eastern] PHP Fatal error:  Class name must be a valid object or a string in /home3/parsons1/public_html/newlogin/classes/test.php on line 6
+[25-Jan-2017 00:57:34 US/Eastern] PHP Fatal error:  Class 'this' not found in /home3/parsons1/public_html/newlogin/classes/test.php on line 6
+[25-Jan-2017 14:30:08 US/Eastern] PHP Parse error:  syntax error, unexpected '$host' (T_VARIABLE), expecting function (T_FUNCTION) in /home3/parsons1/public_html/newlogin/classes/Database.php on line 3

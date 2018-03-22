@@ -1,0 +1,33 @@
+body { 
+background: url("images/me1997.jpg") no-repeat center center fixed; 
+  background-size: cover;
+
+}
+{
+	margin: 0;
+	padding: 15;
+	color: black;
+	font: normal 36pt Times New Roman;
+}
+h1{display: inline;
+	color:red;
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+	}
+	div {
+    width: 150px;
+    height: 153px;
+    background: red;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+}
+
+div:hover {
+   
+    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+}

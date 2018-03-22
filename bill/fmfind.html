@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Find Local Farmers Markets</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="http://www.seedtip.com/images/alpaca.jpg" />
+	<meta property="og:title" content="Discover the closest Farmers Markets in your area!" />
+	<meta property="og:site_title" content="Find Local Farmers Markets" />
+	<meta property="og:description" content="Support your local farmers and small business owners. Visit a farmers market."/>
+	<meta property="og:url" content="http://www.seedtip.com"/>
+	
+	<!--[if lt IE 9]>
+		<script src="/js/html5shiv.min.js"></script>
+	<![endif]-->
+	
+	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?libraries=adsense?key=AIzaSyBQsaxHn4lfCbJ4J1SQi96u0XtQisdBERI"></script> -->
+	<script src="https://maps.googleapis.com/maps/api/js?libraries=adsense"></script>
+    <script language="javascript" type="text/javascript" src="/js/map.js"></script>
+  </head>
+  <body>
+  
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-55786602-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+  
+	<div id="control">
+		<!--<img src="/images/logo.png" />-->
+		<h2>Find Local Farmers Markets</h2>
+		<p>We'll help you locate your closest farmers markets. Simply choose an option below to begin...</p>
+		<form method="get" id="chooseZip">
+			<button type="submit" class="learnButton">Use current location</button>
+			<button type="button" id="searchZip" class="learnButton">Search by Zip Code</button>
+			<div class="clear"></div>
+			<div class="zipSearch">
+				<input id="textZip" type="text" name="zip" placeholder="enter your zip code" autofocus>
+				<button type="submit" class="learnButton">Search</button>
+			</div>
+			<div class="clear"></div>
+		</form>
+		
+		<p>If you've found SeedTip helpful, please help spread the word!</p>
+		
+		<div class="social">
+		
+			<div class="twitter">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-via="pauldessert">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
+			
+			<div class="facebook">
+				<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.seedtip.com&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21&amp;appId=752601418144350" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>		
+			</div>
+			
+			<!-- Begin MailChimp Signup Form 
+			<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
+			
+			<div id="mc_embed_signup">
+				<form action="//aaa.us8.list-manage.com/subscribe/post?u=02e6f34b5a5a3ed1d6c6c0556&amp;id=b804762d4e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<div id="mc_embed_signup_scroll">
+						<label for="mce-EMAIL">Subscribe to get updates & fun info about food & farmers markets</label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+						<div style="position: absolute; left: -5000px;"><input type="text" name="b_02e6f34b5a5a3ed1d6c6c0556_b804762d4e" tabindex="-1" value=""></div>
+						<div class="clear">
+							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button learnButton">
+						</div>
+					</div>
+				</form>
+			</div>
+		
+		</div>
+		<div class="clear"></div>
+		<div id="results"></div>
+		<p>A project by <a href="http://www.pauldessert.com">Paul Dessert</a>.</p>
+		<p>Learn how to care for and grow crops with growing guides from <a href="http://blog.openfarm.cc/">OpenFarm.</a> </p>
+	</div>
+	
+	<div id="map-canvas"></div>
+	
+	<script>
+		$(function() {
+			$( "#searchZip" ).click(function() {
+				$("#searchZip").hide();
+				$( ".zipSearch" ).show();
+			});
+		});
+	</script>
+
+  </body>
+</html>

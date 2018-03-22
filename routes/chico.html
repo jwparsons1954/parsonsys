@@ -1,0 +1,115 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <title>Chico, Texas (Marginal)</title> 
+  
+    <meta charset="UTF-8"> 
+    <style type="text/css"> 
+      html, body, #map_canvas {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+    </style> 
+    <script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDu4IQzBhzvpwxkJCJYdvw7ya3SX4q186Y"></script> 
+   
+   <script type="text/javascript"> 
+      var map;
+      function initialize() {
+      	      
+      	// map options
+        var myOptions = {
+          zoom: 8,
+          center: new google.maps.LatLng('33.296004', '-97.794131'),
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        
+        // the map
+        map = new google.maps.Map(document.getElementById('map_canvas'), myOptions);
+        
+        // directions service
+        directionsService = new google.maps.DirectionsService();
+        
+        // Define our origin position, the start of our trip.
+        originPosition = new google.maps.LatLng(33.296111, -97.802199);
+        
+        // Define 8 waypoints to place between the origin and the destination
+        waypoint1 = new google.maps.LatLng('33.321181', '-97.883052');
+        waypoint2 = new google.maps.LatLng('33.362949', '-97.881721');
+        waypoint3 = new google.maps.LatLng('33.363522', '-97.814859');
+        //waypoint4 = new google.maps.LatLng('33.309239', '-97.801856');
+       // waypoint5 = new google.maps.LatLng('33.321181', '-97.883052');
+      //  waypoint6 = new google.maps.LatLng('37.56368', '-121.90382');
+       // waypoint7 = new google.maps.LatLng('37.54175', '-121.92334');
+       // waypoint8 = new google.maps.LatLng('37.51806', '-121.94201');
+        
+        // push the waypoints defined above into an array
+        wayPointArray = new Array();
+	wayPointArray.push({location: waypoint1, stopover: true});
+	wayPointArray.push({location: waypoint2, stopover: false});
+	wayPointArray.push({location: waypoint3, stopover: false});
+	//wayPointArray.push({location: waypoint4, stopover: false});
+	//wayPointArray.push({location: waypoint5, stopover: false});
+	// wayPointArray.push({location: waypoint6, stopover: false});
+	// wayPointArray.push({location: waypoint7, stopover: false});
+//	wayPointArray.push({location: waypoint8	, stopover: false});
+        
+	// define our definition position, the last stop of our trip
+        destinationPosition = new google.maps.LatLng(33.296147, -97.802242);
+        
+         var request = {
+	  origin: originPosition,
+	  destination: destinationPosition,
+	  waypoints: wayPointArray,
+	  travelMode: google.maps.DirectionsTravelMode.DRIVING,
+	  unitSystem: google.maps.DirectionsUnitSystem.METRIC,
+	  optimizeWaypoints: false
+	};
+						 
+        directionsService.route(request, function(response, status) {
+		
+		  if (status == google.maps.DirectionsStatus.OK) {
+		  	  
+		  	
+		  
+			var polyOpts = {
+				strokeOpacity: 1.0,
+				strokeColor: '#0000FF',
+				strokeWeight: 2
+	 		}
+	 
+			var directionsDisplayOptions = { 
+				suppressMarkers: false, 
+				suppressInfoWindows: false, 
+				preserveViewport: false,
+				polylineOptions: polyOpts
+			};
+	 
+			directionsRenderer = new google.maps.DirectionsRenderer(directionsDisplayOptions);
+			directionsRenderer.setMap(map);
+			directionsRenderer.setDirections(response);
+			
+		   
+		  } else {
+		  
+			console.info('could not get route');
+			console.info(response);
+		   
+		  }
+	});
+        
+       
+        
+        
+      }
+ 
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script> 
+  </head> 
+  <body> 
+  <h1>Chico, Texas (Marginal)</h1>
+    <div id="map_canvas"style="width:100%;height:700px;"></div>>
+	</div> 
+  </body> 
+</html> 

@@ -1,0 +1,835 @@
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>NEW Computer</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+<script type="text/JavaScript" language="JavaScript">
+			function tnmask(t){
+	
+			var patt = /(\d{3}).*(\d{3}).*(\d{4})/;
+			var donepatt = /^(\d{3})-(\d{3})-(\d{4})/;
+			var str = t.value;
+			var result;
+	
+			if (!str.match(donepatt)){
+	
+			result = str.match(patt);
+	
+				if (result!= null){
+					t.value = t.value.replace(/[^\d]/gi,'');
+					str = result[1] + '-' + result[2] + '-' + result[3];
+					t.value = str;
+				}
+				else{
+				if (t.value.match(/[^\d]/gi)){
+					t.value = t.value.replace(/[^\d]/gi,'');
+					}
+				}
+			}}
+			</script>
+<body bgcolor="#FFFFFF">
+
+<table width="100%" align=left>
+  <tr>
+    <td width="50%">
+	  <b><font size=4 color="#000080" face="Arial"> DADS Asset Submission Form </font></b>
+	</td>
+    <td width="50%" align=right>
+      <table>
+        <tr>
+          <td>
+		        </tr>
+      </table>
+	</td>
+  </tr>
+</table>
+
+
+<p>
+<br clear="all">
+<hr>
+<p>
+
+<script Language="JavaScript" Type="text/javascript"><!--
+function FrontPage_Form1_Validator(theForm)
+{
+
+  if (theForm.Program.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Form Type\" options.");
+    theForm.Program.focus();
+    return (false);
+  }
+
+  if (theForm.Program.selectedIndex == 0)
+  {
+    alert("The first \"Form Type\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.Program.focus();
+    return (false);
+  }
+
+  if (theForm.Installer.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Installer\" options.");
+    theForm.Installer.focus();
+    return (false);
+  }
+
+  if (theForm.Installer.selectedIndex == 0)
+  {
+    alert("The first \"Installer\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.Installer.focus();
+    return (false);
+  }
+
+  if (theForm.SiteCity.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Deployment City\" options.");
+    theForm.SiteCity.focus();
+    return (false);
+  }
+
+  if (theForm.SiteCity.selectedIndex == 0)
+  {
+    alert("The first \"Deployment City\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.SiteCity.focus();
+    return (false);
+  }
+
+  if (theForm.Unit.selectedIndex < 0)
+  {
+    alert("Please select one of the \"PO\" options.");
+    theForm.Unit.focus();
+    return (false);
+  }
+
+  if (theForm.Unit.selectedIndex == 0)
+  {
+    alert("The first \"PO\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.Unit.focus();
+    return (false);
+  }
+
+  if (theForm.NewAssetType.selectedIndex < 0)
+  {
+    alert("Please select one of the \"BU\" options.");
+    theForm.NewAssetType.focus();
+    return (false);
+  }
+
+  if (theForm.NewAssetType.selectedIndex == 0)
+  {
+    alert("The first \"BU\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.NewAssetType.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletAssetTag.value == "")
+  {
+    alert("Please enter a value for the \"DADS Prop. ID\" field.");
+    theForm.OldTabletAssetTag.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletAssetTag.value.length < 12)
+  {
+    alert("Please enter at least 12 characters in the \"DADS Prop. ID\" field.");
+    theForm.OldTabletAssetTag.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletAssetTag.value.length > 12)
+  {
+    alert("Please enter at most 12 characters in the \"DADS Prop. ID\" field.");
+    theForm.OldTabletAssetTag.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletSerialNumber.value == "")
+  {
+    alert("Please enter a value for the \"Serial\" field.");
+    theForm.OldTabletSerialNumber.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletSerialNumber.value.length < 7)
+  {
+    alert("Please enter at least 7 characters in the \"Serial\" field.");
+    theForm.OldTabletSerialNumber.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletSerialNumber.value.length > 7)
+  {
+    alert("Please enter at most 7 characters in the \"Serial\" field.");
+    theForm.OldTabletSerialNumber.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletModel.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Description of Property\" options.");
+    theForm.OldTabletModel.focus();
+    return (false);
+  }
+
+  if (theForm.OldTabletModel.selectedIndex == 0)
+  {
+    alert("The first \"Description of Property\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.OldTabletModel.focus();
+    return (false);
+  }
+
+  if (theForm.OldAssetType.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Condition of Equipment\" options.");
+    theForm.OldAssetType.focus();
+    return (false);
+  }
+
+  if (theForm.NewAirCardSIMM.value == "")
+  {
+    alert("Please enter a value for the \"Transfer From Employee Name\" field.");
+    theForm.NewAirCardSIMM.focus();
+    return (false);
+  }
+
+  if (theForm.NewAirCardSIMM.value.length > 20)
+  {
+    alert("Please enter at most 20 characters in the \"Transfer From Employee Name\" field.");
+    theForm.NewAirCardSIMM.focus();
+    return (false);
+  }
+
+  if (theForm.NewAirCardIMEI.value == "")
+  {
+    alert("Please enter a value for the \"Transfer From Employee No.\" field.");
+    theForm.NewAirCardIMEI.focus();
+    return (false);
+  }
+
+  if (theForm.NewAirCardIMEI.value.length < 11)
+  {
+    alert("Please enter at least 11 characters in the \"Transfer From Employee No.\" field.");
+    theForm.NewAirCardIMEI.focus();
+    return (false);
+  }
+
+  if (theForm.NewAirCardIMEI.value.length > 11)
+  {
+    alert("Please enter at most 11 characters in the \"Transfer From Employee No.\" field.");
+    theForm.NewAirCardIMEI.focus();
+    return (false);
+  }
+
+  if (theForm.PositionNumber.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Transfer From Sector\" options.");
+    theForm.PositionNumber.focus();
+    return (false);
+  }
+
+  if (theForm.PositionNumber.selectedIndex == 0)
+  {
+    alert("The first \"Transfer From Sector\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.PositionNumber.focus();
+    return (false);
+  }
+
+  if (theForm.DataMigrated.value == "")
+  {
+    alert("Please enter a value for the \"Transfer From Location Code (Mail Code)\" field.");
+    theForm.DataMigrated.focus();
+    return (false);
+  }
+
+  if (theForm.DataMigrated.value.length < 4)
+  {
+    alert("Please enter at least 4 characters in the \"Transfer From Location Code (Mail Code)\" field.");
+    theForm.DataMigrated.focus();
+    return (false);
+  }
+
+  if (theForm.DataMigrated.value.length > 4)
+  {
+    alert("Please enter at most 4 characters in the \"Transfer From Location Code (Mail Code)\" field.");
+    theForm.DataMigrated.focus();
+    return (false);
+  }
+
+  if (theForm.SiteAddress.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Site Address\" options.");
+    theForm.SiteAddress.focus();
+    return (false);
+  }
+
+  if (theForm.SiteAddress.selectedIndex == 0)
+  {
+    alert("The first \"Site Address\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.SiteAddress.focus();
+    return (false);
+  }
+
+  if (theForm.EmployeeName.value == "")
+  {
+    alert("Please enter a value for the \"Transfer To Employee Name\" field.");
+    theForm.EmployeeName.focus();
+    return (false);
+  }
+
+  if (theForm.EmployeeName.value.length > 255)
+  {
+    alert("Please enter at most 255 characters in the \"Transfer To Employee Name\" field.");
+    theForm.EmployeeName.focus();
+    return (false);
+  }
+
+  if (theForm.EmployeeID.value == "")
+  {
+    alert("Please enter a value for the \"Transfer To Employee ID\" field.");
+    theForm.EmployeeID.focus();
+    return (false);
+  }
+
+  if (theForm.EmployeeID.value.length < 11)
+  {
+    alert("Please enter at least 11 characters in the \"Transfer To Employee ID\" field.");
+    theForm.EmployeeID.focus();
+    return (false);
+  }
+
+  if (theForm.EmployeeID.value.length > 11)
+  {
+    alert("Please enter at most 11 characters in the \"Transfer To Employee ID\" field.");
+    theForm.EmployeeID.focus();
+    return (false);
+  }
+
+  if (theForm.Region.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Transfer To Sector\" options.");
+    theForm.Region.focus();
+    return (false);
+  }
+
+  if (theForm.Region.selectedIndex == 0)
+  {
+    alert("The first \"Transfer To Sector\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.Region.focus();
+    return (false);
+  }
+
+  if (theForm.MailCode.value == "")
+  {
+    alert("Please enter a value for the \"Transfer To Location Code (Mail Code)\" field.");
+    theForm.MailCode.focus();
+    return (false);
+  }
+
+  if (theForm.MailCode.value.length < 4)
+  {
+    alert("Please enter at least 4 characters in the \"Transfer To Location Code (Mail Code)\" field.");
+    theForm.MailCode.focus();
+    return (false);
+  }
+
+  if (theForm.MailCode.value.length > 4)
+  {
+    alert("Please enter at most 4 characters in the \"Transfer To Location Code (Mail Code)\" field.");
+    theForm.MailCode.focus();
+    return (false);
+  }
+  return (true);
+}
+//--></script>
+<form METHOD="POST" action="--WEBBOT-SELF--" onsubmit="return FrontPage_Form1_Validator(this)" language="JavaScript" name="FrontPage_Form1">
+
+<input TYPE="hidden" NAME="VTI-GROUP" VALUE="0">
+
+<div align="center">
+
+<table border="1" id="table1" style="border-collapse: collapse" bordercolor="#000000" cellpadding="2">
+	<tr>
+		<td colspan="5" bgcolor="#C0C0C0">
+		<p align="left"><b><font face="Arial" size="2">SITE INFORMATION</font></b></td>
+	</tr>
+	<tr>
+		<td width="141" valign="top"><font face="Arial" size="2"><b>Date: *<br>
+		</b></font><font face="Arial">
+		<input name="InstallDate" size="19" value="4/8/2014" tabindex="1"></font></td>
+		<td colspan="3" valign="top"><b><font face="Arial" size="2">Form Type: *<br>
+		</font></b><font face="Arial">
+		<select size="1" name="Program" tabindex="2">	<option selected>
+		Select Type</option>
+		<option>Transfer To Employee</option>
+<option>Other: Vendor pick up of returned leased PC and peripherals</option>
+
+</select></font></td>
+		<td width="276" valign="top"><font face="Arial" size="2"><b>Installer: *<br>
+		</b></font><font face="Arial">
+		<select size="1" name="Installer" tabindex="3">
+<option selected>Installer</option>
+<option>John Parsons</option>
+<option>Marlon Brown</option>
+<option>Trampas Nash</option>
+<option>Aaron Irving</option>
+<option>Eric Muniz</option>
+<option>William Black</option>
+<option>Julio Rivera</option>
+<option>Zachary Monocivaiz</option>
+<option>Narciso Pena</option>
+<option>Donald Wendel</option>
+<option>James Tipping</option>
+<option>Charles Mayfield</option>
+<option>Edward Weissbard</option>
+<option>Michael Thompson</option>
+<option>Victor Munoz</option>
+<option>Jason Wilke</option>
+<option>Lee Horsley</option>
+<option>Don Britt</option>
+<option>Jimmy Villarreal</option>
+<option>Mack Bailey</option>
+<option>Mike Norris</option>
+
+
+</select></font></td>
+	</tr>
+	<tr>
+		<td width="141" valign="top"><font face="Arial" size="2"><b>Deployment City: *<br>
+		</b></font>
+			<font face="Arial">
+			<select size="1" name="SiteCity" tabindex="4">	<option selected>
+			Select City</option>
+<option>-------FY14 Q1-------</option>	
+<option>Austin</option>
+<option>Amarillo</option>
+<option>Tulia</option>
+<option>Plainview</option>
+<option>Pampa</option>
+<option>San Marcos</option>
+<option>Abilene</option>
+<option>Denton</option>
+<option>Eastland</option>
+<option>Graham</option>
+<option>Bowie</option>
+<option>Wichita Falls</option>
+<option>Seymour</option>
+<option>Snyder</option>
+<option>Midland</option>
+<option>Odessa</option>
+<option>Paducah</option>
+<option>San Angelo</option>
+<option>Vernon</option>
+<option>Lubbock</option>
+<option>Grand Prairie</option>
+<option>Arlington</option>
+<option>Dallas</option>
+<option>Mesquite</option>
+<option>Fort Worth</option>
+<option>Weatherford</option>
+<option>Mineral Well</option>
+<option>Cleburne</option>
+<option>Waxahachie</option>
+<option>Gainesville</option>
+<option>Sherman</option>
+<option>Bonham</option>
+<option>Greenville</option>
+<option>Tyler</option>
+<option>Henderson</option>
+<option>Carthage</option>
+<option>Jacksonville</option>
+<option>Athens</option>
+<option>Canton</option>
+<option>Gilmer</option>
+<option>Longview</option>
+<option>Marshall</option>
+<option>Atlanta</option>
+<option>Texarkana</option>
+<option>Linden</option>
+<option>Daingerfield</option>
+<option>Mt Pleasant</option>
+<option>Paris</option>
+<option>Silsbee</option>
+<option>Sulphur Springs</option>
+<option>Nacogdoches</option>
+<option>Crockett</option>
+<option>Beaumont</option>
+<option>Woodville</option>
+<option>Port Arthur</option>
+<option>Orange</option>
+<option>Jasper</option>
+<option>Hemphill</option>
+<option>Lufkin</option>
+<option>Rosenberg</option>
+<option>Columbus</option>
+<option>Pasadena</option>
+<option>Houston</option>
+<option>Texas City</option>
+<option>Conroe</option>
+<option>Bastrop</option>
+<option>Brenham</option>
+<option>Bryan</option>
+<option>Temple</option>
+<option>Edinburg</option>
+<option>Mission</option>
+<option>Pharr</option>
+<option>Alamo</option>
+<option>San Benito</option>
+<option>Brownsville</option>
+<option>Rio Grande City</option>
+<option>Laredo</option>
+<option>Corpus Christi</option>
+<option>Harlingen</option>
+<option>Alice</option>
+<option>San Antonio</option>
+<option>Jourdanton</option>
+<option>Seguin</option>
+<option>Eagle Pass</option>
+<option>Victoria</option>
+<option>Kerrville</option>
+<option>Del Rio</option>
+<option>Presidio</option>
+<option>El Paso</option>
+
+</select></font></td>
+		<td colspan="3" valign="top">
+			<b><font face="Arial" size="2">New Equipment Purchase Order (PO</font></b><font face="Arial" size="2"><b>): *<br>
+		</b></font><font face="Arial">
+			<font size="1">
+			&nbsp;<select size="1" name="Unit" tabindex="5">
+			<option selected>Select PO</option>
+
+			<option value="TXM111-112">Q2 - Legacy Equipment</option>
+<option value='53900-4-0000069563'>New - Region 00 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 00 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 01 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 01 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 02 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 02 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 03 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 03 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 04 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 04 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 05 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 05 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 06 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 06 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 07 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 07 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 08 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 08 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 09 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 09 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 10 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 10 - Laptop</option>
+<option value='53900-4-0000069563'>New - Region 11 - Desktop</option>
+<option value='53900-4-0000069563'>New - Region 11 - Laptop</option>
+<option>Other - See Notes</option>
+
+
+			</select></font></font></td>
+		<td width="276" valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+			<td colspan="5" bordercolor="#000000" bgcolor="#C0C0C0">
+			<p align="left"><b><font face="Arial" size="2">I. DESCRIPTION</font></b></td>
+		</tr>
+	<tr>
+			<td width="141" nowrap>
+			<p align="center"><b><font face="Arial" size="2">BU: *</font></b></td>
+			<td width="124" nowrap><b><font face="Arial" size="2">DADS Prop. ID: 
+			*</font></b></td>
+			<td width="68" nowrap><b><font face="Arial" size="2">Serial #: *</font></b></td>
+			<td nowrap><b><font face="Arial" size="2">Description of Property: *</font></b></td>
+			<td width="276" nowrap><b><font face="Arial" size="2">Condition: *</font></b></td>
+			</tr>
+	<tr>
+			<td width="141" align="right">
+			<p align="center"><b><font face="Arial" size="2">
+			<select size="1" name="NewAssetType" tabindex="10">
+			<option selected>Select BU</option>
+			<option value="539CL">539CL - New Equip</option>
+			<option value="539LS">539LS - Lease Return</option>
+			</select></font></b></td>
+			<td width="124">
+			<font face="Arial">
+			&nbsp;<input name="OldTabletAssetTag" size="15" onChange="javascript:this.value=this.value.toUpperCase();" tabindex="11" maxlength="12"></font></td>
+			<td width="68">
+			<font face="Arial">
+			&nbsp;<input name="OldTabletSerialNumber" size="8" onChange="javascript:this.value=this.value.toUpperCase();" tabindex="12" maxlength="7"></font></td>
+			<td nowrap>
+			<font face="Arial">
+			&nbsp;<select size="1" name="OldTabletModel" tabindex="13">
+			<option selected>Select</option>
+			<option value="Dell Latitude 2100">Dell Latitude 2100 - OLD</option>
+			<option value="Dell Latitude E6400">Dell Latitude E6400 - OLD</option>
+			<option value="Dell Optiplex 760">Dell Optiplex 760 - OLD</option>
+			<option value="Dell Optiplex 780">Dell Optiplex 780 - OLD</option>
+			<option value="Dell Latitude E6430">Dell Latitude E6430 - NEW
+			</option>
+			<option value="Dell OptiPlex 7010">Dell OptiPlex 7010 - NEW</option>
+			<option>Other</option>
+			</select></font></td>
+			<td width="276">
+			<font face="Arial">
+			<select size="1" name="OldAssetType" tabindex="14">
+			<option>Select</option>
+			<option selected>Good</option>
+			<option>Fair</option>
+			<option>Poor</option>
+			</select></font></td>
+			</tr>
+	<tr>
+		<td colspan="5" bgcolor="#C0C0C0">
+			<p align="left"><font face="Arial" size="2"><b>II. TRANSFER FROM: </b>
+			(If system is coming from an ARC Installer, enter the installer name 
+			in the Employee Field and follow the directions for the remaining 
+			fields.&nbsp; Otherwise, enter the Employee information for the 
+			remaining fields. Field information should be provided by the 
+			Employee)</font></td>
+			</tr>
+	<tr>
+		<td nowrap><b><font face="Arial" size="2">Employee/Tech Name: * </font></b>
+			</td>
+			<td nowrap><b><font face="Arial" size="2">Employee No.: *</font></b></td>
+			<td nowrap>
+			<b><font face="Arial" size="2">Sector </font>
+			<font face="Arial" size="1">(Region)</font><font face="Arial" size="2">: *</font></b></td>
+			<td>
+			<b><font face="Arial" size="2">Location Code: *</font></b></td>
+			<td><b><font face="Arial" size="2">DADS Address</font><font face="Arial" size="1"> 
+			(Site Address</font><font face="Arial" size="2">: *</font></b></td>
+	</tr>
+	<tr>
+		<td nowrap valign="top">
+			<font face="Arial">
+			<input name="NewAirCardSIMM" size="20" value="" maxlength="20" tabindex="20"></font></td>
+			<td nowrap valign="top">
+			<font face="Arial">
+			&nbsp;<input name="NewAirCardIMEI" size="15" value="" onChange="javascript:this.value=this.value.toUpperCase();" maxlength="11" tabindex="21"><br>
+		<font size="1" color="#FF0000">(For ARC Installers enter 00000000000)</font></font></td>
+			<td nowrap valign="top">
+			<font face="Arial">
+			<select size="1" name="PositionNumber" tabindex="22">
+			<option selected>Sector</option>
+			<option>00</option>
+			<option>01</option>
+			<option>02</option>
+			<option>03</option>
+			<option>04</option>
+			<option>05</option>
+			<option>06</option>
+			<option>07</option>
+			<option>08</option>
+			<option>09</option>
+			<option>10</option>
+			<option>11</option>
+			<option>NA</option>
+			</select><font size="1"><br>
+			<font color="#FF0000">(For ARC Installers select NA)</font></font></font></td>
+			<td nowrap valign="top"><font face="Arial">
+			&nbsp;<input type="text" name="DataMigrated" size="12" tabindex="23" maxlength="4"><br>
+		<font size="1" color="#FF0000">(For ARC Installers enter 0000)</font></font></td>
+			<td nowrap valign="top">
+			<font face="Arial">
+			&nbsp;<select size="1" name="SiteAddress" tabindex="24">
+<option selected>Select Site Address</option>
+<option>------------FY14 Q1-----------</option>
+<option value="701 W 51st St">Region 00 - 701 W 51st St</option>
+<option value="8317 Cross Park">Region 00 - 8317 Cross Park</option>	
+<option value="4601 S 1st St">Region 02 - 4601 S 1st St</option>
+<option value="3501 W 45th St">Region 01 - 3501 W 45th St</option>
+<option value="219 SE 2nd St">Region 01 - 219 SE 2nd St</option>
+<option value="2907 W 7th St">Region 01 - 2907 W 7th St</option>
+<option value="1509 N Banks St">Region 01 - 1509 N Banks St</option>
+<option value="6302 Iola Dr">Region 01 - 6302 Iola Dr</option>
+<option value="5806 34th St">Region 01 - 5806 34th St</option>
+<option value="1331 East Main St">Region 02 - 1331 East Main St</option>
+<option value="724 9th St">Region 02 - 724 9th St</option>
+<option value="1202 Packing House Rd">Region 02 - 1202 Packing House Rd</option>
+<option value="601 E Decatur ST">Region 02 - 601 E Decatur ST</option>
+<option value="925 Lamar St">Region 02 - 925 Lamar St</option>
+<option value="115 W Morris St">Region 02 - 115 W Morris St</option>
+<option value="3409 Snyder Shopping Center">Region 02 - 3409 Snyder Shopping Center</option>
+<option value="1531 Cumberland St">Region 02 - 1531 Cumberland St</option>
+<option value="622 S Oakes St">Region 02 - 622 S Oakes St</option>
+<option value="2511 Dalworth">Region 03 - 2511 Dalworth</option>
+<option value="801 S State Highway 161">Region 03 - 801 S State Highway 161</option>
+<option value="1540 New York Ave">Region 03 - 1540 New York Ave</option>
+<option value="2561 Matlock Rd">Region 03 - 2561 Matlock Rd</option>
+<option value="1111 W Ledbetter">Region 03 - 1111 W Ledbetter</option>
+<option value="5455 Blair Rd">Region 03 - 5455 Blair Rd</option>
+<option value="1545 W Mockingbird ln">Region 03 - 1545 W Mockingbird ln</option>
+<option value="6500 Northwest Dr">Region 03 - 6500 Northwest Dr</option>
+<option value="1501 Circle Dr">Region 03 - 1501 Circle Dr</option>
+<option value="1950 Clear Lake RD">Region 03 - 1950 Clear Lake RD</option>
+<option value="4113A Hwy 180 E">Region 03 - 4113A Hwy 180 E</option>
+<option value="204 Kimberly Dr">Region 03 - 204 Kimberly Dr</option>
+<option value="121 Westgate Dr">Region 03 - 121 Westgate Dr</option>
+<option value="326 S Commerce ST">Region 03 - 326 S Commerce ST</option>
+<option value="2001 Loy lake Rd">Region 03 - 2001 Loy lake Rd</option>
+<option value="1205 E Sam Rayburn">Region 03 - 1205 E Sam Rayburn</option>
+<option value="3612 E McKinney St">Region 03 - 3612 E McKinney St</option>
+<option value="2500 Stonewall">Region 03 - 2500 Stonewall</option>
+<option value="3303 Mineola Hwy">Region 04 - 3303 Mineola Hwy</option>
+<option value="302 E Rieck Rd">Region 04 - 302 E Rieck Rd</option>
+<option value="700 Zeid Blvd">Region 04 - 700 Zeid Blvd</option>
+<option value="1430 S Adams">Region 04 - 1430 S Adams</option>
+<option value="502 E Pine St">Region 04 - 502 E Pine St</option>
+<option value="101 W Baker St">Region 04 - 101 W Baker St</option>
+<option value="555 W Highway 243">Region 04 - 555 W Highway 243</option>
+<option value="400 E Highway 243">Region 04 - 400 E Highway 243</option>
+<option value="324 Yapaco ST">Region 04 - 324 Yapaco ST</option>
+<option value="1750 N Eastman Rd">Region 04 - 1750 N Eastman Rd</option>
+<option value="4105 Victory Dr">Region 04 - 4105 Victory Dr</option>
+<option value="305 E Thomas St">Region 04 - 305 E Thomas St</option>
+<option value="3115 S Lake Dr">Region 04 - 3115 S Lake Dr</option>
+<option value="213 Hwy 8 N">Region 04 - 213 Hwy 8 N</option>
+<option value="603 Ward St">Region 04 - 603 Ward St</option>
+<option value="303 E 11th St">Region 04 - 303 E 11th St</option>
+<option value="1460 19th NW">Region 04 - 1460 19th NW</option>
+<option value="1400 College St">Region 04 - 1400 College St</option>
+<option value="2614 NW Stallings Dr">Region 05 - 2614 NW Stallings Dr</option>
+<option value="111 NW Loop 304">Region 05 - 111 NW Loop 304</option>
+<option value="285 Liberty St 6th floor">Region 05 - 285 Liberty St 6th floor</option>
+<option value="930 N Magnolia">Region 05 - 930 N Magnolia</option>
+<option value="5860 9th Ave">Region 05 - 5860 9th Ave</option>
+<option value="2222 Gloria Dr">Region 05 - 2222 Gloria Dr</option>
+<option value="928 Marvin Hancock Dr">Region 05 - 928 Marvin Hancock Dr</option>
+<option value="2015 Worth St">Region 05 - 2015 Worth St</option>
+<option value="1210 S Chestnut">Region 05 - 1210 S Chestnut</option>
+<option value="1215 E Hwy 327">Region 05 - 1215 E Hwy 327</option>
+<option value="350 Pine St Flr 9">Region 05 - 350 Pine St Flr 9</option>
+<option value="3105 Executive Blvd">Region 05 - 3105 Executive Blvd</option>
+<option value="1320 E 40th St">Region 06 - 1320 E 40th St</option>
+<option value="1332 E 40th St">Region 06 - 1332 E 40th St</option>
+<option value="1425 E 40th St">Region 06 - 1425 E 40th St</option>
+<option value="2110 Telephone Rd">Region 06 - 2110 Telephone Rd</option>
+<option value="9460 Harwin">Region 06 - 9460 Harwin</option>
+<option value="10060 Fuqua">Region 06 - 10060 Fuqua</option>
+<option value="220 Meadowfern Dr">Region 06 - 220 Meadowfern Dr</option>
+<option value="117 Lane Dr">Region 06 - 117 Lane Dr</option>
+<option value="1220 Bowie St">Region 06 - 1220 Bowie St</option>
+<option value="2702 Cherry Brook Ln">Region 06 - 2702 Cherry Brook Ln</option>
+<option value="5425 Polk St">Region 06 - 5425 Polk St</option>
+<option value="2000 Texas Ave">Region 06 - 2000 Texas Ave</option>
+<option value="608 E North Loop 336">Region 06 - 608 E North Loop 336</option>
+<option value="3809 E Loop">Region 07 - 3809 E Loop</option>
+<option value="2248 S Market st">Region 07 - 2248 S Market st</option>
+<option value="10205 N Lamar">Region 07 - 10205 N Lamar</option>
+<option value="14000 Summit Dr">Region 07 - 14000 Summit Dr</option>
+<option value="1601 Rutherford">Region 07 - 1601 Rutherford</option>
+<option value="1901 Dutton Dr">Region 07 - 1901 Dutton Dr</option>
+<option value="3000 E Villa Maria">Region 07 - 3000 E Villa Maria</option>
+<option value="4501 S General Bruce Dr">Region 07 - 4501 S General Bruce Dr</option>
+<option value="1067 Bandera Rd">Region 08 - 1067 Bandera Rd</option>
+<option value="3635 SE Military Dr">Region 08 - 3635 SE Military Dr</option>
+<option value="11307 Roszell">Region 08 - 11307 Roszell</option>
+<option value="1306 Jiffy Blvd">Region 08 - 1306 Jiffy Blvd</option>
+<option value="314 S Saunders">Region 08 - 314 S Saunders</option>
+<option value="173 Wildcat Dr">Region 08 - 173 Wildcat Dr</option>
+<option value="1593 S Veteran's Blvd">Region 08 - 1593 S Veteran's Blvd</option>
+<option value="2306 Leary Lane">Region 08 - 2306 Leary Lane</option>
+<option value="819 Water St">Region 08 - 819 Water St</option>
+<option value="3401 North A St">Region 09 - 3401 North A St</option>
+<option value="3016 Kermit Hwy">Region 09 - 3016 Kermit Hwy</option>
+<option value="401 E Franklin Ave">Region 10 - 401 E Franklin Ave</option>
+<option value="5150 El Paso Dr">Region 10 - 5150 El Paso Dr</option>
+<option value="Hwy 67 at Louvain St">Region 10 - Hwy 67 at Louvain St</option>
+<option value="2520 S Veterans Blvd">Region 11 - 2520 S Veterans Blvd</option>
+<option value="4015 N Conway Ave">Region 11 - 4015 N Conway Ave</option>
+<option value="1503 W Polk">Region 11 - 1503 W Polk</option>
+<option value="135 E Bus 83">Region 11 - 135 E Bus 83</option>
+<option value="3625 W Hwy 83">Region 11 - 3625 W Hwy 83</option>
+<option value="1630 W Highway 77">Region 11 - 1630 W Highway 77</option>
+<option value="3505 Boca Chica Blvd">Region 11 - 3505 Boca Chica Blvd</option>
+<option value="4410 Dillion LN">Region 11 - 4410 Dillion LN</option>
+<option value="5155 Flynn Pkwy">Region 11 - 5155 Flynn Pkwy</option>
+<option value="2520 N Closner">Region 11 - 2520 N Closner</option>
+<option value="1500 N Arkansas">Region 11 - 1500 N Arkansas</option>
+<option value="2538 Central Palm Dr">Region 11 - 2538 Central Palm Dr</option>
+<option value="408 N Flournoy Rd">Region 11 - 408 N Flournoy Rd</option>
+
+</select></font></td>
+	</tr>
+	<tr>
+		<td colspan="5" bgcolor="#C0C0C0">
+		<p align="left"><b><font face="Arial" size="2">III. TRANSFER TO:</font></b><font face="Arial" size="2"> 
+		(If system is going to an ARC Installer, enter the installer name in the 
+		Employee Field and follow the directions for the remaining fields. 
+		Otherwise, enter the Employee information for the remaining fields. 
+		Field information should be provided by the Employee)</font></td>
+	</tr>
+	<tr>
+		<td width="141"><b><font face="Arial" size="2">Employee/Tech 
+		Name: *</font></b></td>
+		<td width="124" nowrap><font face="Arial" size="2"><b>
+		Employee No.: *</b></font></td>
+		<td><b><font face="Arial" size="2">Sector </font>
+		<font face="Arial" size="1">(Region)</font></b><font face="Arial" size="2"><b>: 
+		*</b></font></td>
+		<td width="185"><b><font face="Arial" size="2">Location Code: *</font></b></td>
+		<td width="276">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="141" valign="top"><font face="Arial">
+		<input name="EmployeeName" size="18" value="" maxlength="255" tabindex="30"></font></td>
+		<td nowrap valign="top"><font face="Arial">
+		<input name="EmployeeID" size="12" value="" maxlength="11" tabindex="31"><br>
+		<font size="1" color="#FF0000">(For ARC Installers enter 00000000000)</font></font></td>
+		<td valign="top"><font face="Arial">
+		&nbsp;<select size="1" name="Region" tabindex="32">
+		<option selected>Sector</option>
+		<option>00</option>
+		<option>01</option>
+		<option>02</option>
+		<option>03</option>
+		<option>04</option>
+		<option>05</option>
+		<option>06</option>
+		<option>07</option>
+		<option>08</option>
+		<option>09</option>
+		<option>10</option>
+		<option>11</option>
+		<option>NA</option>
+		</select><br>
+		<font size="1" color="#FF0000">(For ARC Installers select NA)</font></font></td>
+		<td width="185" valign="top">
+		<font face="Arial">
+		&nbsp;<input type="text" name="MailCode" size="12" tabindex="33" maxlength="4"><br>
+		<font size="1" color="#FF0000">(For ARC Installers enter 0000)</font></font></td>
+		<td width="276" valign="top">
+		&nbsp;</td>
+		</tr>
+		<tr><td colspan="5"><font face="Arial"><b><font size="2">Comments:</font></b><font size="2"><br>
+			</font>&nbsp;<textarea rows="4" name="Comments" cols="82" tabindex="40"></textarea></font></td></tr>
+		<tr><td colspan="5" align="center"><font face="Arial">
+			<input type="submit" value="    OK    " tabindex="41"><input type="reset" value=" Reset " tabindex="42"></font></td></tr>
+		<tr><td colspan="5">&nbsp;</td></tr>
+	</table>
+	</div>
+<p>
+<br>
+</p>
+<p><br>
+&nbsp;<br>
+</p>
+<p><br>
+&nbsp;<br>
+</p>
+
+
+<p>&nbsp;</p>
+
+</form>
+
+</body>
+
+</html>

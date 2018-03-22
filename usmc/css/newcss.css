@@ -1,0 +1,52 @@
+  body {
+	  background:white;
+    margin: 5 Auto;
+    padding:5;
+	}
+ul
+{
+list-style-type: none;
+}
+
+#level1 {
+	display: block;
+	background: gold;
+	height: 135px;
+	width: 95%;
+	margin:0 auto;
+	}
+#col1 {
+	background:red;
+	float:left;
+    width:10%;
+	}
+	#col3 {
+				background:red;
+		float:right;
+    width:10%;
+	
+	}
+	#col2 {
+		background:red;
+     width:70%;
+	 margin:0 auto;
+	}
+	
+  #footer {	display: block;
+	background: gold;
+	height: 90px;
+	width: 85%;
+	margin:0 auto;
+	  
+  }
+  #copyright {
+	  	float:left;
+    width:40%;
+   }
+
+  
+ 
+	#advert {
+			float:right;
+    width:59%;
+	}

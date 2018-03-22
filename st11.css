@@ -1,0 +1,26 @@
+.header{ display: inline;
+	position: relative;
+	background-color: lightblue;
+	width: 100%;
+    height: auto;
+    border: 10px solid black;
+}
+#changer{float: left;
+width: 90px;
+	height: 90px;
+	background: yellow;
+	border-style: solid;
+	border-color: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#stats{position: relative;
+}
+.adsense {
+    height: 90px;
+    width: 728px;
+    background: #e5e5e5;
+    margin: auto;
+}

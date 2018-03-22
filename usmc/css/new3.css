@@ -1,0 +1,126 @@
+  body {
+	  background:white;
+    margin: 0 Auto;
+    padding:0;
+	}
+ul
+{
+list-style-type: none;
+}
+
+.header {
+	display: block;
+	height: 22.7vh;
+	width: 98vw;
+	background: red;
+	border: 1vw solid gold;
+	margin-left: auto;
+    margin-right: auto;
+}
+.content {	
+	display: block;
+	height: 59vh;
+	width: 93vw;
+	background: AntiqueWhite;
+	border: 1vw solid black;
+	margin-left:  3vw;
+    margin-right:  2vw;
+	position: relative;
+	top: 26vh;
+	overflow: scroll;
+	padding-left: 3vw;
+	padding-right: 2vw;
+	   }
+.footer {	
+	display: block;
+	height: 9vh;
+	width: 98vw;
+	background: red;
+	border: 1vw solid gold;
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+  }
+  .date {
+	  position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+  }
+div.head {
+	position: fixed;
+    top: 0;
+    right: 0;
+}
+  div.foot {
+	position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.left {
+	display: inline;
+	height: 50vh;
+	width: 8vw;
+		float:left;
+	}
+	.middle {
+	display: inline;
+	height: 50vh;
+	width: 76vw;
+			float:left;
+	}
+.right {
+	display: inline;
+	height: 50vh;
+	width: 8vw;
+		float:left;
+	}
+	.ftleft {
+	display: inline;
+	height: 20vh;
+	width: 8vw;
+		float:left;
+	}
+	.ftmiddle {
+	display: inline;
+			width: 82vw;
+			float:left;
+	}
+.ftright {
+	display: inline;
+	height: 20vh;
+	width: 8vw;
+		float:left;
+	}
+	p {
+    text-indent: 5vw;
+}
+p::first-letter { 
+    font-size: 150%;
+    color: red;
+}
+h1 {
+	color:black;
+}
+h2 {
+	color:blue;
+}
+h3 {
+	color:red;
+}
+h4 {
+	color:green;
+}
+span{
+	color:red;
+}
+  img {
+  border-radius: 50%;
+  }
+ 
+	#advert {
+			float:right;
+    width:59vw;
+	}

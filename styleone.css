@@ -1,0 +1,196 @@
+*
+
+body { 
+background: url("images/me1997.jpg") no-repeat center center fixed; 
+  background-size: cover;
+
+}
+.header{ display: block;
+	position: static;
+	color:red;
+	width: auto;
+    height: 150px;
+    border: 10px solid black;
+}
+.topper{ display: block;
+	position: static;
+	color:red;
+	width: auto;
+    height: auto;
+    border: 10px solid black;
+}
+.ports{display: block;
+	position: static;
+	color:red;
+	width: auto;
+    height: auto;
+    border: 10px solid black;
+}
+.pages{display: block;
+	position: relative;
+	color:red;
+	width: auto;
+    height: auto;
+    border: 10px solid black;
+	
+}
+.social{display:block;
+	position: static;
+	color:red;
+	width: auto;
+    height: auto;
+    border: 10px solid black;
+	
+}
+
+.div.div {
+    width: 150px;
+    height: 153px;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 4s;
+}
+
+div:hover {
+    
+    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+}
+{
+	margin: 0;
+	padding: 15;
+	color: black;
+	font: normal 36pt Times New Roman;
+}
+h1{display: block;
+	color:red;
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+	}
+
+#website{	position: absolute;
+  right: 25px;
+  top: 430px;
+   
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+  }
+	#charity{	position: absolute;
+  left: 25px;
+  top: 950px;
+  }
+	#changer{	position: absolute;
+  right: 1150px;
+  top: 30px;
+}
+#usmc {position:absolute;
+  left: auto;
+  top: 430px;
+
+}
+#chauncy {position:absolute;
+  right: 500px;
+  top: 430px;
+}
+#contact {position:absolute;
+  right: 25px;
+  top: 950px;
+}
+#bee {position:absolute;
+  right:500px;
+  top: 950px;
+}
+.topper{position:relative;
+right:auto;
+left:auto;
+  top: 1330px;
+  }
+#stats{	position: absolute;
+  left: 1100px;
+  top: 15px;
+}
+.adsense {
+    height: 90px;
+    width: 728px;
+    background: #e5e5e5;
+    margin: auto;
+}
+#news {position:absolute;
+   right: 775px;
+  top: 690px;
+
+}
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:right;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}#nav {
+width:1400px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}
+#backgndinfo {font: normal 10pt
+}
+#circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 10px solid #FF0000;
+	border-radius: 100px;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+	background-color: yellow;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #fff000;
+}
+
+div.div.img a:hover img {
+    border:1px solid #000000;
+	 
+    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+	
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+

@@ -1,0 +1,73 @@
+	body {
+		margin:0;
+		padding:0;
+		height:100%;
+		overflow:hidden;
+	}
+	.header 	{
+	display: block;
+	width: 98%;
+	background: red;
+	border: 10px solid gold;
+	}
+  
+ .content {	
+	display: block;
+	position: fixed;
+	top: 450;
+    right: 0;
+    width: 100%;
+	    height: 66%;
+    overflow: scroll;
+	background: AntiqueWhite;
+	border: 2px solid black;
+	
+	   }
+	   .footer {	
+	   margin: 0 auto;
+	   display: inline;
+	background: red;
+	height: 57px;
+	width: 98%;
+	margin: 0;
+	position: absolute;
+    bottom: 0;
+	border-style: solid;
+    border-color: gold;
+    border-width: 10px;
+
+  }
+   .egaleft {
+	  display: inline;
+	  float: left;
+  }
+  .date{
+	  display:inline;
+  }
+  .egaright {
+	  display: inline;
+	  float: right;
+  }
+  p {
+    text-indent: 5vw;
+	margin: 2vw 2vw 3vw 2vw;
+}
+p::first-letter { 
+    font-size: 150%;
+    color: red;
+}
+h1 {
+	color:black;
+}
+h2 {
+	color:blue;
+}
+h3 {
+	color:red;
+}
+h4 {
+	color:green;
+}
+span{
+	color:red;
+}

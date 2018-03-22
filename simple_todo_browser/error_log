@@ -1,0 +1,35 @@
+[26-Feb-2016 22:04:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request was not correct' in /home3/parsons1/public_html/simple_todo_browser/apicaller.php:47
+Stack trace:
+#0 /home3/parsons1/public_html/simple_todo_browser/todo.php(12): ApiCaller->sendRequest(Array)
+#1 {main}
+  thrown in /home3/parsons1/public_html/simple_todo_browser/apicaller.php on line 47
+[26-Feb-2016 22:05:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request was not correct' in /home3/parsons1/public_html/simple_todo_browser/apicaller.php:47
+Stack trace:
+#0 /home3/parsons1/public_html/simple_todo_browser/todo.php(12): ApiCaller->sendRequest(Array)
+#1 {main}
+  thrown in /home3/parsons1/public_html/simple_todo_browser/apicaller.php on line 47
+[26-Feb-2016 22:05:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request was not correct' in /home3/parsons1/public_html/simple_todo_browser/apicaller.php:47
+Stack trace:
+#0 /home3/parsons1/public_html/simple_todo_browser/todo.php(12): ApiCaller->sendRequest(Array)
+#1 {main}
+  thrown in /home3/parsons1/public_html/simple_todo_browser/apicaller.php on line 47
+[26-Feb-2016 22:06:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request was not correct' in /home3/parsons1/public_html/simple_todo_browser/apicaller.php:47
+Stack trace:
+#0 /home3/parsons1/public_html/simple_todo_browser/todo.php(12): ApiCaller->sendRequest(Array)
+#1 {main}
+  thrown in /home3/parsons1/public_html/simple_todo_browser/apicaller.php on line 47
+[26-Feb-2016 22:06:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request was not correct' in /home3/parsons1/public_html/simple_todo_browser/apicaller.php:47
+Stack trace:
+#0 /home3/parsons1/public_html/simple_todo_browser/todo.php(12): ApiCaller->sendRequest(Array)
+#1 {main}
+  thrown in /home3/parsons1/public_html/simple_todo_browser/apicaller.php on line 47
+[26-Feb-2016 22:12:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request was not correct' in /home3/parsons1/public_html/simple_todo_browser/apicaller.php:47
+Stack trace:
+#0 /home3/parsons1/public_html/simple_todo_browser/todo.php(12): ApiCaller->sendRequest(Array)
+#1 {main}
+  thrown in /home3/parsons1/public_html/simple_todo_browser/apicaller.php on line 47
+[26-Feb-2016 22:32:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request was not correct' in /home3/parsons1/public_html/simple_todo_browser/apicaller.php:47
+Stack trace:
+#0 /home3/parsons1/public_html/simple_todo_browser/todo.php(12): ApiCaller->sendRequest(Array)
+#1 {main}
+  thrown in /home3/parsons1/public_html/simple_todo_browser/apicaller.php on line 47

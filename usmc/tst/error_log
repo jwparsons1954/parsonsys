@@ -1,0 +1,15 @@
+[31-Jan-2017 15:33:07 US/Eastern] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/tst/ind.php on line 3
+[31-Jan-2017 15:33:07 US/Eastern] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/tst/ind.php on line 3
+[31-Jan-2017 15:34:23 US/Eastern] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/tst/ind.php on line 3
+[31-Jan-2017 15:34:23 US/Eastern] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/tst/ind.php on line 3
+[31-Jan-2017 15:35:04 US/Eastern] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/tst/ind.php on line 13
+[31-Jan-2017 15:35:04 US/Eastern] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/tst/ind.php on line 13
+[31-Jan-2017 15:47:27 US/Eastern] PHP Warning:  require_once(Myclass.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/usmc/tst/ind.php on line 13
+[31-Jan-2017 15:47:27 US/Eastern] PHP Fatal error:  require_once(): Failed opening required 'Myclass.php' (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/usmc/tst/ind.php on line 13
+[31-Jan-2017 17:02:03 US/Eastern] PHP Fatal error:  Call to undefined function phpdate() in /home3/parsons1/public_html/usmc/tst/form.html on line 3
+[31-Jan-2017 17:10:30 US/Eastern] PHP Fatal error:  Call to undefined function phpdate() in /home3/parsons1/public_html/usmc/tst/form.html on line 3
+[31-Jan-2017 17:27:31 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/usmc/tst/ind.php on line 17
+[31-Jan-2017 17:30:46 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/usmc/tst/ind.php on line 17
+[31-Jan-2017 17:31:14 US/Eastern] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home3/parsons1/public_html/usmc/tst/ind.php on line 17
+[31-Jan-2017 17:37:41 US/Eastern] PHP Parse error:  syntax error, unexpected '"/"' (T_CONSTANT_ENCAPSED_STRING) in /home3/parsons1/public_html/usmc/tst/ind.php on line 17
+[31-Jan-2017 18:05:29 US/Eastern] PHP Fatal error:  Call to a member function format() on a non-object in /home3/parsons1/public_html/usmc/tst/form.html on line 3

@@ -1,0 +1,8 @@
+[25-Jan-2017 10:01:59 US/Eastern] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home3/parsons1/public_html/shareboard/classes/Model.php:7
+Stack trace:
+#0 /home3/parsons1/public_html/shareboard/classes/Model.php(7): PDO->__construct('mysql:host=loca...', 'root', '123456')
+#1 /home3/parsons1/public_html/shareboard/controllers/home.php(4): Model->__construct()
+#2 /home3/parsons1/public_html/shareboard/classes/Controller.php(12): Home->Index()
+#3 /home3/parsons1/public_html/shareboard/index.php(20): Controller->executeAction()
+#4 {main}
+  thrown in /home3/parsons1/public_html/shareboard/classes/Model.php on line 7

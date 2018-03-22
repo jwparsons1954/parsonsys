@@ -1,0 +1,63 @@
+
+* {
+	margin: 0;
+	padding: 5;
+	color: black;
+	background:red;
+	font: normal 20pt Times New Roman
+}.main {display:inline:
+	background:red
+	border: 5px solid green;
+}
+.left {display:inline;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 5px solid gold;
+	width: 250px;
+	height:250px: 
+}
+
+.right {display:inline;
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 5px solid gold;
+	width: 250px;
+	height:250px: 
+}
+.typing {display:block:
+		color:blue;
+		font-size:20px;
+		background:white;
+		border: 15px solid blue;
+		position: absolute;
+		top: 250;
+		}
+.mycorps {display:inline;
+	border: 5px solid blue;
+	position: absolute;
+	top: 10;
+	right:450;
+	width: 140px;
+	height:100px: 
+	font: normal 10pt Times New Roman;
+}	
+.adsense {display:float;
+	position: absolute;
+	top: 80;
+	right: 262;
+	border: 5px solid green;
+	width: 458px;
+	height: 100;
+}
+.corps {display:inline;
+	border: 5px solid blue;
+	position: absolute;
+	top: 210;
+	left:400;
+	width: 180px;
+	height:80px: 
+}	
+
+

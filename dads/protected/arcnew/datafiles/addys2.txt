@@ -1,0 +1,114 @@
+Region 7,Aledo,121 Westgate Dr,001
+Region 7,Arlington,1540,New York Ave,002
+Region 7,Arlington,2561 Matlock Rd,003
+Region 4,Athens,101 W Baker St,004
+Region 2,Austin,701 W 51st St,005
+Region 2,Austin,8317 Cross Park,006
+Region 2,Austin,4601 S 1st St,007
+Region 3,Bonham,1205 E Sam Rayburn,008
+Region 4,Canton,555 W Highway 243,009
+Region 4,Carthage,1430 S Adams,010
+Region 7,Cleburne,204 Kimberly Dr,011
+Region 7,Dallas,1111 W Ledbetter,012
+Region 7,Dallas,1545 W Mockingbird ln,013
+Region 3,Denton,3612 E McKinney St,014
+Region 7,Fort Worth,1501 Circle Dr,015
+Region 7,Fort Worth,2500 Stonewall,016
+Region 3,Gainesville,326 S Commerce ST,017
+Region 7,Grand Prairie,2511 Dalworth,018
+Region 7,Grand Prairie,801 S State Highway 161,019
+Region 7,Grand Prairie,219 SE 2nd St,020
+Region 4,Henderson,700 Zeid Blvd,021
+Region 4,Jacksonville,502 E Pine St,022
+Region 7,Mesquite,6500 Northwest Dr,023
+Region 7,Mineral Wells,4113A Hwy 180 E,024
+Region 3,Sherman,2001 Loy lake Rd,025
+Region 4,Tyler,3303 Mineola Hwy,026
+Region 4,Tyler,302 E Rieck Rd,027
+Region 7,Weatherford,1950 Clear Lake RD,028
+Region 03,4113A Hwy 180 E
+Region 03,204 Kimberly Dr
+Region 03,121 Westgate Dr
+Region 03,326 S Commerce ST
+Region 03,2001 Loy lake Rd
+Region 03,1205 E Sam Rayburn
+Region 03,3612 E McKinney St
+Region 03,2500 Stonewall
+Region 04,3303 Mineola Hwy
+Region 04,302 E Rieck Rd
+Region 04,700 Zeid Blvd
+Region 04,1430 S Adams
+Region 04,502 E Pine St
+Region 04,101 W Baker St
+Region 04,555 W Highway 243
+Region 04,400 E Highway 243
+Region 04,324 Yapaco ST
+Region 04,1750 N Eastman Rd
+Region 04,4105 Victory Dr
+Region 04,305 E Thomas St
+Region 04,3115 S Lake Dr
+Region 04,213 Hwy 8 N
+Region 04,603 Ward St
+Region 04,303 E 11th St
+Region 04,1460 19th NW
+Region 04,1400 College St
+Region 05,2614 NW Stallings Dr
+Region 05,111 NW Loop 304
+Region 05,285 Liberty St 6th floor
+Region 05,930 N Magnolia
+Region 05,5860 9th Ave
+Region 05,2222 Gloria Dr
+Region 05,928 Marvin Hancock Dr
+Region 05,2015 Worth St
+Region 05,1210 S Chestnut
+Region 05,1215 E Hwy 327
+Region 05,350 Pine St Flr 9
+Region 05,3105 Executive Blvd
+Region 06,1320 E 40th St
+Region 06,1332 E 40th St
+Region 06,1425 E 40th St
+Region 06,2110 Telephone Rd
+Region 06,9460 Harwin
+Region 06,10060 Fuqua
+Region 06,220 Meadowfern Dr
+Region 06,117 Lane Dr
+Region 06,1220 Bowie St
+Region 06,2702 Cherry Brook Ln
+Region 06,5425 Polk St
+Region 06,2000 Texas Ave
+Region 06,608 E North Loop 336
+Region 07,3809 E Loop
+Region 07,2248 S Market st
+Region 07,10205 N Lamar
+Region 07,14000 Summit Dr
+Region 07,1601 Rutherford
+Region 07,1901 Dutton Dr
+Region 07,3000 E Villa Maria
+Region 07,4501 S General Bruce Dr
+Region 08,1067 Bandera Rd
+Region 08,3635 SE Military Dr
+Region 08,11307 Roszell
+Region 08,1306 Jiffy Blvd
+Region 08,314 S Saunders
+Region 08,173 Wildcat Dr
+Region 08,1593 S Veteran's Blvd
+Region 08,2306 Leary Lane
+Region 08,819 Water St
+Region 09,3401 North A St
+Region 09,3016 Kermit Hwy
+Region 10,401 E Franklin Ave
+Region 10,5150 El Paso Dr
+Region 10,Hwy 67 at Louvain St
+Region 11,2520 S Veterans Blvd
+Region 11,4015 N Conway Ave
+Region 11,1503 W Polk
+Region 11,135 E Bus 83
+Region 11,3625 W Hwy 83
+Region 11,1630 W Highway 77
+Region 11,3505 Boca Chica Blvd
+Region 11,4410 Dillion LN
+Region 11,5155 Flynn Pkwy
+Region 11,2520 N Closner
+Region 11,1500 N Arkansas
+Region 11,2538 Central Palm Dr
+Region 11,408 N Flournoy Rd

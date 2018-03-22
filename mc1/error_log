@@ -1,0 +1,68 @@
+[11-Feb-2017 11:39:21 US/Eastern] PHP Warning:  require_once(header3.html): failed to open stream: No such file or directory in /home3/parsons1/public_html/mc1/index.php on line 2
+[11-Feb-2017 11:39:21 US/Eastern] PHP Fatal error:  require_once(): Failed opening required 'header3.html' (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/mc1/index.php on line 2
+[11-Feb-2017 11:40:05 US/Eastern] PHP Warning:  require_once(header.html): failed to open stream: No such file or directory in /home3/parsons1/public_html/mc1/index.php on line 2
+[11-Feb-2017 11:40:05 US/Eastern] PHP Fatal error:  require_once(): Failed opening required 'header.html' (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/mc1/index.php on line 2
+[11-Feb-2017 11:40:52 US/Eastern] PHP Warning:  require_once(footer.html): failed to open stream: No such file or directory in /home3/parsons1/public_html/mc1/index.php on line 3
+[11-Feb-2017 11:40:52 US/Eastern] PHP Fatal error:  require_once(): Failed opening required 'footer.html' (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/mc1/index.php on line 3
+[11-Feb-2017 13:38:02 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/mc1/content.php on line 4
+[11-Feb-2017 13:39:01 US/Eastern] PHP Fatal error:  Call to a member function read_txt() on a non-object in /home3/parsons1/public_html/mc1/content.php on line 5
+[11-Feb-2017 13:41:02 US/Eastern] PHP Fatal error:  Call to a member function read_txt() on a non-object in /home3/parsons1/public_html/mc1/content.php on line 5
+[11-Feb-2017 13:43:02 US/Eastern] PHP Fatal error:  Call to a member function read_txt() on a non-object in /home3/parsons1/public_html/mc1/content.php on line 5
+[11-Feb-2017 13:43:44 US/Eastern] PHP Fatal error:  Call to a member function read_txt() on a non-object in /home3/parsons1/public_html/mc1/content.php on line 5
+[24-Feb-2017 11:58:44 US/Eastern] PHP Fatal error:  Class 't2t' not found in /home3/parsons1/public_html/mc1/content.php on line 4
+[24-Feb-2017 12:06:46 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Feb-2017 12:14:34 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Feb-2017 17:22:12 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Feb-2017 17:22:42 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Feb-2017 17:42:17 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Feb-2017 17:43:11 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Feb-2017 23:10:45 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[26-Feb-2017 23:04:00 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[27-Feb-2017 23:06:00 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[28-Feb-2017 15:34:49 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[28-Feb-2017 23:03:15 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 36
+[03-Mar-2017 21:18:09 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 36
+[06-Mar-2017 11:01:17 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[09-Mar-2017 11:53:43 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[17-Mar-2017 18:32:39 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[19-Mar-2017 13:25:47 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[21-Mar-2017 21:54:28 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[22-Mar-2017 13:10:25 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[24-Mar-2017 06:06:23 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[26-Mar-2017 07:26:48 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[28-Mar-2017 11:20:44 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[30-Mar-2017 07:28:37 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[01-Apr-2017 01:46:29 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[05-Apr-2017 03:10:35 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[07-Apr-2017 17:48:19 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[08-Apr-2017 18:40:28 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[09-Apr-2017 20:11:18 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[10-Apr-2017 23:34:22 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[13-Apr-2017 03:50:07 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[14-Apr-2017 08:29:33 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[15-Apr-2017 10:52:08 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[16-Apr-2017 19:49:45 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[20-Apr-2017 03:50:49 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[21-Apr-2017 16:32:43 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[28-Apr-2017 06:04:49 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[01-May-2017 20:52:16 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[03-May-2017 18:01:32 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[04-May-2017 23:01:55 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[06-May-2017 12:52:36 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[08-May-2017 18:12:57 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[10-May-2017 18:30:52 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[11-May-2017 18:43:52 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[14-May-2017 22:58:53 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[17-May-2017 05:18:51 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[18-May-2017 17:29:14 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[19-May-2017 09:21:37 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[21-May-2017 16:33:32 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[22-May-2017 20:00:57 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[25-May-2017 01:37:18 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[25-May-2017 11:43:56 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[27-May-2017 19:59:29 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[28-May-2017 17:42:41 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[29-May-2017 13:18:19 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[30-May-2017 16:36:58 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[07-Jun-2017 09:10:17 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34
+[16-Jun-2017 01:29:12 US/Eastern] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/parsons1/public_html/usmc/classes/readwrite.php on line 34

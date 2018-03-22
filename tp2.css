@@ -1,0 +1,89 @@
+
+body {
+    background: #00ff00 url("http://parsonsys.net/web/usmc/images/BabeDh0.gif")  fixed center; 
+	margin: 20px;
+	padding: 10px;
+	color: black;
+	font: normal 18pt Times New Roman;
+}
+h1 {	text-align:center;
+	color:blue;
+	font: normal 50pt Psuedo Saudi,Times New Roman;
+}
+H3 { text-align: center }
+P { text-align: center }
+img {
+ 
+ }
+.Form-top {font: normal 50pt Psuedo Saudi,Times New Roman;
+
+}
+.begindate {display:block;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	padding:10 px;
+	
+	
+}
+.enddate {{display:block;
+	vertical-align: middle;
+	box-sizing: border-box;
+	border: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:10 px;
+	height:128px;
+	width:100%;
+	vertical-align: middle;
+}
+ .head1  {
+	display:block;
+	box-sizing: border-box;
+	background-color:red;
+	margin:0 px;
+	padding:0 px;
+	height:128px;
+	width:100%;
+}
+.col1 {
+	display:block;
+	box-sizing: border-box;
+	float:left;
+	height: 128px; /*Specify Height*/
+	
+	
+}
+
+.col3 {
+	display:block;
+	float:right;
+	height: 128px; /*Specify Height*/
+	}
+.text1	 {
+	display:block;
+	background-color:red;
+	
+	margin-left: auto;
+	margin-right: auto;
+	width:  65%; /*Specify Width*/
+	border: 5px solid gold; /*Add 1px solid border, use any color you want*/
+}
+.text2	 {
+	display:block;
+	background-color:red;
+	
+	margin-left: auto;
+	margin-right: auto;
+	width:  30%; /*Specify Width*/
+	border: 5px solid gold; /*Add 1px solid border, use any color you want*/
+	}
+.text3	 {
+	display:block;
+	background-color:white;
+	margin-left: auto;
+	margin-right: auto;
+	width:  95%; /*Specify Width*/
+	border: 5px solid black; /*Add 1px solid border, use any color you want*/
+}
+

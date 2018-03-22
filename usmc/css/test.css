@@ -1,0 +1,20 @@
+  body {
+	  background:white;
+    margin:9px 9px 0 9x;
+    padding:0;
+	}
+ul
+{
+list-style-type: none;
+}
+
+#level0{
+	
+	display: inline;
+	border-style: solid;
+    border-width: 15px;
+	background:yellow;
+	width: 98%;
+	height: 128px;
+	width: 100%;
+}

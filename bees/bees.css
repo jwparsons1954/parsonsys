@@ -1,0 +1,107 @@
+*
+body { 
+    background: url("../images/beepics/beebk2.jpg") ; 
+}
+div{text-align: center;
+}
+p {color: dark blue;
+	text-decoration: none;
+	 display: block;
+    font-size: 3em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 20;
+    margin-right: 20;
+    font-weight: bold;}
+
+h1 {
+    text-align: center;
+	color: red;
+	text-decoration: underline;
+	 display: block;
+    font-size: 8em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+{
+	margin: 0;
+	padding: 15;
+	color: black;
+	font: normal 36pt Times New Roman:
+}
+
+.adsense {
+    height: 90px;
+    width: 728px;
+    background: #e5e5e5;
+    margin: auto;
+}
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}#nav {
+width:1400px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}
+#backgndinfo {font: normal 10pt
+}
+#circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 10px solid #0000ff;
+	border-radius: 20px;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+	background-color: yellow;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+

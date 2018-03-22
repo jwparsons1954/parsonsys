@@ -1,0 +1,11 @@
+[26-Feb-2016 20:16:20 America/Chicago] PHP Warning:  include_once(models/TodoItem.php): failed to open stream: No such file or directory in /home3/parsons1/public_html/simpletodo_api/index.php on line 6
+[26-Feb-2016 20:16:20 America/Chicago] PHP Warning:  include_once(): Failed opening 'models/TodoItem.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/parsons1/public_html/simpletodo_api/index.php on line 6
+[26-Feb-2016 20:17:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/parsons1/public_html/simpletodo_api/controllers/Todo.php on line 31
+[26-Feb-2016 20:33:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 31
+[26-Feb-2016 20:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 31
+[26-Feb-2016 20:35:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 31
+[26-Feb-2016 20:38:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 32
+[26-Feb-2016 20:39:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting catch (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 40
+[26-Feb-2016 22:07:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting catch (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 40
+[26-Feb-2016 22:52:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting catch (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 40
+[26-Feb-2016 22:59:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting catch (T_CATCH) in /home3/parsons1/public_html/simpletodo_api/index.php on line 40

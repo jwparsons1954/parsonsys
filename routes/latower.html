@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqosQtX8HVRetc3EGcmjLRTbpOUXJn5_M"></script> 
+   
+</script>
+
+<script>
+var myCenter=new google.maps.LatLng(13.785274, 100.569983);
+
+function initialize()
+{
+var mapProp = {
+  center:myCenter,
+  zoom:14,
+   panControl:true,
+    zoomControl:true,
+    mapTypeControl:true,
+    scaleControl:true,
+    streetViewControl:true,
+    overviewMapControl:true,
+    rotateControl:true,
+  mapTypeId:google.maps.MapTypeId.terrain
+  };
+
+var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+var marker=new google.maps.Marker({
+  position:myCenter,
+  });
+
+marker.setMap(map);
+
+var infowindow = new google.maps.InfoWindow({
+  content:"LA Tower Bangkok"
+  });
+
+infowindow.open(map,marker);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+
+<body>
+<div id="googleMap" style="width:1000px;height:760px;"></div>
+</body>
+</html>

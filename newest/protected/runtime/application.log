@@ -1,0 +1,26 @@
+2016/10/14 10:01:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "contacts".' in /home3/parsons1/public_html/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home3/parsons1/public_html/yii/framework/web/CController.php(270): CController->missingAction('contacts')
+#1 /home3/parsons1/public_html/yii/framework/web/CWebApplication.php(282): CController->run('contacts')
+#2 /home3/parsons1/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/contacts')
+#3 /home3/parsons1/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home3/parsons1/public_html/newest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/newest/site/contacts
+---
+2016/10/14 10:16:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sexy".' in /home3/parsons1/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home3/parsons1/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('sexy')
+#1 /home3/parsons1/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home3/parsons1/public_html/newest/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/newest/sexy
+---
+2016/10/14 10:18:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sexy".' in /home3/parsons1/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home3/parsons1/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('sexy')
+#1 /home3/parsons1/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home3/parsons1/public_html/newest/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/newest/sexy
+---

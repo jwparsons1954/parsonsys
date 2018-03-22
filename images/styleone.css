@@ -1,0 +1,100 @@
+*
+
+body { 
+background: url("images/me1997.jpg"
+}
+{
+	margin: 0;
+	padding: 15;
+	color: black;
+	font: normal 36pt Times New Roman:
+}
+h1{display: block;
+	color:red;
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;}
+#bee {position:absolute;
+  left: auto;
+  top: 450px;
+}
+#stats{	position: absolute;
+  left: 1100px;
+  top: 15px;
+}
+.adsense {
+    height: 90px;
+    width: 728px;
+    background: #e5e5e5;
+    margin: auto;
+}
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:right;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}#nav {
+width:1400px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}
+#backgndinfo {font: normal 10pt
+}
+#circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 10px solid #FF0000;
+	border-radius: 100px;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+	background-color: yellow;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #fff000;
+}
+
+div.img a:hover img {
+    border:1px solid #000000;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+

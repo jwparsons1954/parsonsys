@@ -1,0 +1,14 @@
+*
+body { 
+    background: url("../images/beepics/beebk2.jpg") ; 
+}
+.main {
+    margin: 5px;
+    padding: 5px;
+    border: 10px solid #0000ff;
+	border-radius: 20px;
+    height: 100%;
+    width: 78%;
+    float: center;
+    text-align: center;
+	background-color: yellow;}
